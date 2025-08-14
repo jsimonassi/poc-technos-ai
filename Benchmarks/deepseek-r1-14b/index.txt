@@ -1,0 +1,27 @@
+Tempo de resposta: 13 minutos.
+
+Exemplos de respostas:
+
+
+Com Match Perfeito:
+
+Como realizo a conexão do meu relógio ao aplicativo?
+
+Ok, o usuário está perguntando como conectar seu relógio Mormaii Smartwatches ao aplicativo. Vou usar as informações fornecidas no contexto para responder.\n\n
+
+Primeiro, entro no aplicativo e vou à tela inicial. Ali, encontro um banner de conexão ou um ícone de relógio desligado. Clico nele para prosseguir.\n\nDependendo do modelo, posso usar QR Code ou a conexão manual. Se tiver QR Code, o app abre a câmera automaticamente. Se não, o app procura dispositivos Bluetooth próximos, então preciso ter Bluetooth e GPS ligados no celular.\n\nNa primeira vez que me conectar, vou passar por algumas configurações iniciais, como definir objetivos e notificações.\n\nImportante: Não usar as configurações de Bluetooth do celular diretamente, pois pode causar problemas.\n\u003c/think\u003e\n\n
+
+Para conectar o seu relógio Mormaii Smartwatches ao aplicativo, siga os passos abaixo:\n
+\n1. Abra o aplicativo Mormaii Smartwatches e vá para a tela inicial.
+\n2. Toque no banner de conexão localizado abaixo da sua foto de perfil ou no ícone de relógio desconectado, acima do banner.
+\n3. Selecione o modelo do seu relógio compatível que deseja conectar.
+
+\n\n**Conexão via QR Code (para modelos compatíveis):**
+
+\n- O aplicativo abrirá automaticamente a câmera para ler o código QR do relógio e realizar a conexão.
+\n\n**Conexão Manual:**
+\n- Se o relógio não tiver QR Code ou você preferir essa opção, o app buscará dispositivos próximos. Verifique se Bluetooth e GPS estão ativados no celular.
+
+\n\n**Primeira Conexão:**\
+n- Na primeira vez, o aplicativo guiará você pelas configurações iniciais, como definição de objetivos e notificações.\n\n
+Lembre-se de que a conexão deve ser feita exclusivamente pelo passo a passo do aplicativo. Evite usar as configurações de Bluetooth do celular para evitar problemas com funcionalidades do relógio."

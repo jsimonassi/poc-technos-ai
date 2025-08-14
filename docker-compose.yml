@@ -1,0 +1,49 @@
+services:
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   container_name: ollama
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ollama:/root/.ollama
+  #   restart: unless-stopped
+  #   entrypoint: ["/bin/sh", "-c"]
+  #   command:
+  #   - |
+  #     ollama serve & 
+  #     sleep 5 &&
+  #     ollama pull deepseek-r1:14b &&
+  #     wait
+
+  api-python:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: api-python
+    volumes:
+      - ./:/app-csv-openai
+    ports:
+      - "8000:8000"
+    # depends_on:
+  #   - ollama
+      # - mysql 
+    networks:
+      - default
+
+    environment:
+      # - OLLAMA_URL=http://ollama:11434/api/generate
+      - CSV_PATH=faq_smartwatch.csv
+      - OPENAI_API_KEY=chave-open-ai
+      # - MYSQL_HOST=smartbackend-mysql-1
+      - MYSQL_HOST=smartbackend-mysql-1 # Estou usando o container do backend pra aproveitar o banco local criado.
+      - MYSQL_USER=root
+      - MYSQL_PASSWORD=q1w2e3r4!!!
+      - MYSQL_DATABASE=mormaiismartwatches
+      - MONGO_HOST=smartbackend-mongo-1
+      - MONGO_PORT=27017
+      - MONGO_DB=mormaiismartwatches
+
+networks:
+  default:
+    name: smartbackend_default
+  

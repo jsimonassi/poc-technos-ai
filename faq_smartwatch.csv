@@ -1,0 +1,1350 @@
+topic;content
+Quais modelos são compatíveis com o aplicativo Mormaii Smartwatches?;"No momento, os seguintes modelos são compatíveis com o aplicativo Mormaii Smartwatches (Novos modelos poderão ser adicionados no futuro):
+
+- Mormaii fitGPS (ref MOB3xx)
+- Mormaii fitSport (ref MOID151xx)
+- Mormaii Life (ref MOLIFExx)
+- Mormaii Life GPS (ref MOLIFEGxx)
+- Mormaii Force (ref MOFORCExx)
+- Mormaii Life Ultra (ref MOLIFEUxx e MOLIFEURxx)
+- Mormaii Life Ultra GPS (ref MOLIFEUGxx)
+OBS: Você pode saber a referência do seu modelo ao olhar a gravação na parte de trás de seu relógio (caseback)."
+Como realizo a conexão do meu relógio ao aplicativo?;"1. Inicie o aplicativo Mormaii Smartwatches e vá até a tela inicial.
+2. Toque no banner de conexão localizado abaixo da sua foto de perfil ou no ícone de relógio desconectado, acima do banner.
+3. Selecione o modelo de relógio compatível que deseja conectar.
+
+Conexão via QR Code (para modelos compatíveis):
+
+- Se o seu relógio oferecer a opção de conexão por QR Code, o aplicativo abrirá automaticamente a câmera para realizar a leitura do código e conectar o dispositivo.
+
+Conexão manual (caso seu relógio não tenha QR Code ou você prefira essa opção):
+
+- O aplicativo começará a procurar por relógios próximos compatíveis. Certifique-se de que seu relógio esteja ligado e próximo ao celular.
+- Verifique se o Bluetooth e a Localização (GPS) do seu celular estão ativados. Caso contrário, o aplicativo solicitará que você ative essas funções.
+
+Primeira conexão:
+
+- Se for a primeira vez conectando o relógio, o aplicativo guiará você por uma série de configurações iniciais, como definição de objetivos e configuração de notificações.
+
+Importante:
+
+- A conexão deve ser realizada exclusivamente através do passo a passo dentro do aplicativo Mormaii Smartwatches. Conectar-se via **configurações de Bluetooth** do celular ou outros meios pode causar mau funcionamento em várias funcionalidades do relógio."
+Como sei se meu relógio está conectado corretamente ao aplicativo?;"Caso seu relógio esteja conectado corretamente ao aplicativo, o ícone de relógio na tela inicial do aplicativo ficará branco e mostrará um texto de “Conectado”. O ícone de bluetooth do seu relógio também indicará a conexão.
+Caso o ícone de Bluetooth de seu relógio indique que está conectado, mas o ícone de relógio do aplicativo esteja cortado e na cor laranja, isso significa que seu relógio está conectado a algum outro sistema ou dispositivo, mas não está conectado devidamente ao aplicativo. Você deve desconectar seu relógio de qualquer outro sistema ou dispositivo e, então, realizar a conexão através do passo-a-passo do aplicativo (ver tópico anterior)."
+Tento conectar meu relógio ao aplicativo, mas recebo a mensagem “Relógio não encontrado”. O que fazer?;"É possível que seu relógio já esteja conectado a algum outro dispositivo ou sistema. Caso o relógio esteja conectado a outro sistema, será preciso desconectá-lo manualmente antes de tentar conectá-lo ao aplicativo.
+Entre em configurações do Bluetooth do seu celular, encontre o relógio, e toque em “Esquecer dispositivo” ou “Desparear”.
+
+Verifique na tela inicial do relógio como está desenhado o ícone de Bluetooth. Caso o ícone esteja completo, isso significa que o relógio já está conectado a algum dispositivo ou sistema. Você deve identificar a qual sistema o relógio está pareado e realizar a desconexão manualmente. É recomendado restaurar o relógio para as configurações de fábrica ou reinicie o relógio antes de tentar o pareamento novamente (isso resultará na perda dos dados que ainda não foram sincronizados com o aplicativo). Caso o ícone esteja cortado, isso significa que o relógio está desconectado e pronto para ser conectado ao aplicativo Mormaii Smartwatches.
+
+ATENÇÃO: A conexão deve ser realizada apenas através do passo-a-passo do aplicativo Mormaii Smartwatches. Realizar a conexão através das configurações de Bluetooth de seu celular, ou de qualquer outro meio, pode causar mau funcionamento de diversas funcionalidades do relógio."
+[Android] Meu relógio perdeu a conexão. O que devo fazer?;"Caso a conexão entre relógio e aplicativo seja perdida, basta abrir o aplicativo em seu celular e aguardar a conexão ser refeita automaticamente.
+Caso o aplicativo não consiga reestabelecer a conexão automaticamente, será preciso refazer o passo-a-passo de conexão.
+
+Além disso, será necessário verificar se o seu aplicativo está permitido para rodar em segundo plano. Para isso, encontre o aplicativo Mormaii Smartwatches nas configurações do seu celular, vá até a opção de uso de bateria e selecione a opção “Sem restrição”.
+
+OBS.: Os nomes das configurações podem variar de acordo com a fabricante do seu celular."
+Meu relógio às vezes conecta sozinho e às vezes não. Por que isso acontece?;Quando a conexão é perdida, o aplicativo Mormaii Smartwatches tenta reconectar automaticamente com o seu relógio, mas se você desconectou sua pulseira, fez logout do aplicativo, desligou seu celular ou desinstalou e instalou o aplicativo, você precisa abrir o aplicativo novamente para fazer o passo-a-passo de conexão inicial.
+O que pode causar a perda da conexão entre relógio e aplicativo?;"a) Distância: A conexão Bluetooth pode se manter até uma distância de 10 metros. Contudo, essa distância só é alcançada em campo aberto e sem nenhum tipo de interferência.
+b) Barreiras físicas: Caso haja barreiras físicas (como paredes) entre o relógio e o celular, a distância máxima para a conexão se manter pode ser reduzida drasticamente.
+c) Interferências: O seu smartwatch foi homologado pela a Agência Nacional de Telecomunicações (ANATEL) como dispositivo que opera em caráter secundário. Dispositivos ou estações operando em caráter secundário, não tem direito à proteção contra interferência (radiofrequência) prejudicial, mesmo de estações do mesmo tipo, e não podem causar interferência em sistemas operando em caráter primário. Isso significa que outros dispositivos (como outros dispositivos Bluetooth, roteadores Wi-Fi, etc.) poderão interferir no funcionamento do seu smartwatch caso ele seja exposto a tais condições.
+d) Aplicativo encerrado ou limitado: Para que a conexão se mantenha, é necessário que o aplicativo Mormaii Smartwatches permaneça aberto e rodando, mesmo que em segundo plano. Caso o aplicativo seja encerrado, a conexão será perdida. ATENÇÃO: Alguns celulares possuem sistemas e/ou aplicativos de gestão de energia que podem limitar o funcionamento de aplicativos em segundo plano (como impedir o acesso a recursos custosos como a antena Bluetooth), podendo causar a perda da conexão, para não acontecer a perda de conexão você precisará alterar as configurações de segundo plano nas configurações do seu celular (veja o tópico: Meu relógio perdeu a conexão. O que devo fazer?)
+e) Celular/relógio com pouca bateria: Caso seu celular fique com pouca bateria, o sistema operacional, ou outros sistemas de gestão de energia, podem limitar o funcionamento de recursos que consomem muita energia, como a antena Bluetooth, prejudicando a conexão.
+Caso seu relógio fique com pouca bateria, a potência de sua antena Bluetooth também pode ser afetada."
+Meu relógio é à prova d’água?;A Mormaii fitGPS possui certificação IP68, o que significa que resiste a imersão de 1,5m em água doce parada por até 30 minutos. Essa resistência, contudo, visa prevenir defeitos em caso de imersão acidental, não sendo recomendada a imersão intencional do relógio em água ou qualquer outro líquido ou ambiente com vapor excessivo.
+Meu relógio é à prova d’água?;A Mormaii fitSport possui certificação IP68, o que significa que resiste a imersão de 1,5m em água doce parada por até 30 minutos. Essa resistência, contudo, visa prevenir defeitos em caso de imersão acidental, não sendo recomendada a imersão intencional do relógio em água ou qualquer outro líquido ou ambiente com vapor excessivo.
+Meu relógio é à prova d’água?;O Mormaii Life possui resistência à água de 5 ATM. Isto lhe permite o uso diário, garantindo a resistência à respingos d’água, tomar banho no chuveiro (água fria). Não é adequado para mergulho, natação no mar, sauna ou banho quente. Não aperte o botão lateral quando estiver embaixo d’água ou com o relógio (ou mãos) molhados.
+Posso entrar no mar com meu relógio?;Não é recomendada a imersão de sua Mormaii fitGPS em água salgada, uma vez que a certificação IP68 garante apenas resistência a água doce.
+Posso entrar no mar com meu relógio?;Não é recomendada a imersão de sua Mormaii fitSport em água salgada, uma vez que a certificação IP68 garante apenas resistência a água doce
+Posso entrar no mar com meu relógio?;Você pode utilizar o seu Mormaii Life em água salgada. Apesar de poder utilizar nesse ambiente, não o recomendamos. O sal da água do mar é muito corrosivo e pode danificar algum componente externo do produto. Caso opte por utilizar, após o seu banho de mar, lave o relógio em água doce corrente para retirar todo o sal que possa ter ficado no produto. 
+Posso nadar com meu relógio?;Não é recomendada a prática de natação ou qualquer outro esporte aquático com sua Mormaii fitGPS, uma vez que a pressão exercida pelo movimento dos braços na água pode exceder o limite da resistência do relógio 
+Posso nadar com meu relógio?;Não é recomendada a prática de natação ou qualquer outro esporte aquático com sua Mormaii fitSport, uma vez que a pressão exercida pelo movimento dos braços na água pode exceder o limite da resistência do relógio
+Posso nadar com meu relógio?;Com a resistência à água de 5ATM você pode praticar esportes em piscinas ou mar aberto. Não aperte o botão lateral se o relógio ou sua mão estiverem molhados. Lembre-se de lavar o relógio em água doce corrente após o uso em piscinas e mares.
+Posso tomar banho com meu relógio?;Não é recomendado que se tome banho com sua Mormaii fitGPS, uma vez que as partículas de vapor podem atravessar as vedações do relógio e a coluna d’água (distância entre o chuveiro e a caixa d’água) pode exercer uma pressão maior do que o limite de resistência do relógio 
+Posso tomar banho com meu relógio?;Não é recomendado que se tome banho com sua Mormaii fitSport, uma vez que as partículas de vapor podem atravessar as vedações do relógio e a coluna d’água (distância entre o chuveiro e a caixa d’água) pode exercer uma pressão maior do que o limite de resistência do relógio 
+Posso tomar banho com meu relógio?;Você pode tomar banho com o seu Mormaii Life em água fria. Não recomendamos o uso em banho quente com vapor.
+Posso lavar as mãos com meu relógio?;Você pode lavar as mãos enquanto usa sua Mormaii fitGPS, desde que tome cuidado para não submeter o relógio à pressão direta da torneia, uma vez que a coluna d’água (distância entre a torneira e a caixa d’água) pode exercer uma pressão maior do que o limite de resistência do relógio
+Posso lavar as mãos com meu relógio?;Você pode lavar as mãos enquanto usa sua Mormaii fitsport, desde que tome cuidado para não submeter o relógio à pressão direta da torneia, uma vez que a coluna d’água (distância entre a torneira e a caixa d’água) pode exercer uma pressão maior do que o limite de resistência do relógio 
+Posso lavar as mãos com meu relógio?;Você pode lavar as mãos enquanto usa sua Mormaii Life.
+Como ajusto a data e hora de meu relógio?;Ao realizar a conexão entre relógio e aplicativo, data e hora serão ajustadas automaticamente.
+Como altero o formato de hora de meu relógio?;O formato da hora será ajustado para o mesmo formato adotado em seu celular, contudo, é possível forçar um formato específico (12h ou 24h) na tela Dispositivos > Mudar formato de hora.
+Quais modalidades o meu relógio consegue monitorar?;"1.	Bike
+2.	Corrida"
+Quais modalidades o meu relógio consegue monitorar?;"1.	Basquete
+2.	Bike
+3.	Caminhada
+4.	Corrida
+5.	Dança
+6.	Escalada
+7.	Esteira
+8.	Futebol
+9.	Spinning
+10.	Tênis
+11.	Treino
+12.	Trilha
+13.	Yoga"
+Quais modalidades o meu relógio consegue monitorar?;"Você pode monitorar diretamente pelo seu relógio 9 atividades (descritas abaixo). Mas se você iniciar a atividade pelo app, pode monitorar até 13 atividades.
+1.	Bike
+2.	Caminhada
+3.	Corrida
+4.	Escalada
+5.	Esteira
+6.	Spinning
+7.	Treino
+8.	Trilha
+9.	Yoga"
+Como realizo o monitoramento de um exercício?;"Para realizar o monitoramento de um exercício, com seu relógio pareado corretamente ao aplicativo, acesse a aba ‘Exercícios’ do aplicativo e selecione a modalidade desejada. Em seguida clique em “Iniciar Atividade”.
+Na tela seguinte você poderá definir um objetivo para seu exercício ou clicar em “Iniciar sem definir objetivo”. Em seguida, inicie o monitoramento através de seu relógio.
+Ao final do exercício, encerre o monitoramento pelo relógio. O exercício ficará registrado em sua conta no aplicativo."
+Como realizo o monitoramento de um exercício?;"Para realizar o monitoramento de um exercício, com seu relógio pareado corretamente ao aplicativo, acesse a aba ‘Exercícios’ do aplicativo e selecione a modalidade desejada. Em seguida clique em “Iniciar Atividade”.
+Na tela seguinte você poderá definir um objetivo para seu exercício ou clicar em “Iniciar sem definir objetivo”. Ao encerrar o exercício, você deve sincronizar os dados do relógio com o aplicativo. Você pode iniciar a atividade diretamente pelo seu relógio e fazer o exercício sem estar pareado ou com o celular durante a atividade. Depois, ao finalizar a atividade pelo relógio, faça o pareamento e a sincronização para ver o histórico do exercício no App.
+"
+Como realizo o monitoramento de um exercício?;"Para realizar o monitoramento de um exercício, com seu relógio pareado corretamente ao aplicativo, acesse a aba ‘Exercícios’ do aplicativo e selecione a modalidade desejada. Em seguida toque em “Iniciar Atividade”.
+Na tela seguinte você poderá definir um objetivo para seu exercício ou clicar em “Iniciar sem definir objetivo”. Ao encerrar o exercício, você deve sincronizar os dados do relógio com o aplicativo. Você pode iniciar a atividade diretamente pelo seu relógio e fazer o exercício sem estar pareado ou com o celular durante a atividade. Depois, ao finalizar a atividade pelo relógio, faça o pareamento e a sincronização para ver o histórico do exercício no App.
+ATENÇÃO: Para o funcionamento correto do monitoramento, é necessário que o aplicativo permaneça aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante toda a atividade. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Como defino objetivos para meus exercícios?;"Ao iniciar um monitoramento de exercício pelo aplicativo, é possível definir um objetivo.
+Os objetivos podem ser de distância (ex: correr 5km), de tempo (ex: correr por 30min) ou de caloria (ex: correr até queimar 500kcal). Só é possível escolher um objetivo por exercício. Para atividades que não possuem distância, você só poderá escolher entre objetivo de caloria e de tempo.
+Você pode selecionar um dos objetivos pré-definidos ou clicar em “Personalizar” e definir um objetivo personalizado.
+Quando o objetivo for alcançado, você receberá uma notificação em seu celular lhe avisando. Não há nenhuma notificação no seu smartwatch e a atividade não será encerrada quando você atingir seu objetivo.
+ATENÇÃO: Para o funcionamento correto do monitoramento, é necessário que o aplicativo permaneça aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante toda a atividade. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+O que fazer para que o mapa seja registrado durante a realização de uma atividade?;"Para que o mapa possa ser registrado é preciso iniciar o monitoramento do exercício pelo aplicativo. Certifique-se também de que seu relógio está conectado corretamente ao aplicativo e de que a Localização (GPS) de seu celular está ativada.
+O GPS do celular é usado para o desenho do mapa e não é usado para medir a distância do seu exercício.
+Se você utilizar outro aplicativo que também possui desenho do mapa durante a atividade junto com o app Mormaii Smartwatches, o mapa não irá marcar o percurso corretamente.
+ATENÇÃO: Para o funcionamento correto do monitoramento, é necessário que o aplicativo permaneça aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante toda a atividade. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Posso fazer a atividade sem levar o celular comigo durante o exercício?;"Sim, você pode iniciar as atividades diretamente pelo seu relógio sem a necessidade de estar pareado ou levar o celular com você durante o exercício. Quando finalizar a atividade, faça o pareamento, depois a sincronização para conseguir ver seu histórico.
+Para ver seu mapa durante o percurso, você deve iniciar o exercício pelo aplicativo e levar seu celular com você durante o percurso."
+Meu relógio tem GPS integrado?;Não, nosso modelo Mormaii fitGPS não possue GPS integrado. O aplicativo acessa seus dados de geolocalização para traçar o mapa das suas atividades.
+Meu relógio tem GPS integrado?;Não, nosso modelo Mormaii fitSport não possue GPS integrado. O aplicativo acessa seus dados de geolocalização para traçar o mapa das suas atividades.
+Meu relógio tem GPS integrado?;Não, nosso modelo Mormaii Life não possue GPS integrado. O aplicativo acessa seus dados de geolocalização para traçar o mapa das suas atividades.
+Fiz uma caminhada mas os dados de calorias, distância e duração estão zerados na tela inicial. O que devo fazer?;Os dados de calorias, distância e duração na tela inicial são os dados somados das atividades que você fez nas últimas 24h. Você deve iniciar uma atividade (pelo relógio ou pelo app), depois de finalizada a atividade, você deve sincronizar os dados (botão fica ao lado do símbolo de bluetooth).
+Meu Mormaii FitGPS possui monitoramento de sono?;Não, essa smartband não possui a função de monitoramento de sono.
+Meu Mormaii FitSport possui monitoramento de sono?;Sim, o Mormaii FitSport possui a função de monitoramento de sono.
+O Mormaii Life possui monitoramento de sono?;Sim, o Mormaii Life possui a função de monitoramento de sono.
+Como faço para monitorar meu sono?;Para monitorar seu sono basta dormir com sua Mormaii fitSport no pulso. O relógio irá detectar automaticamente seu ciclo de sono e classificar em sono leve ou profundo. O relógio também registrará os momentos em que você acordou durante a noite. Para enviar as informações para o aplicativo basta realizar a sincronização apertando o botão de sincronizar localizado no canto superior direito da home ao lado do ícone de bluetooth. O relógio precisa estar bem ajustado ao pulso para fazer a marcação corretamente.
+Como faço para monitorar meu sono?;Para monitorar seu sono basta dormir com seu Mormaii Life no pulso. O relógio irá detectar automaticamente seu ciclo de sono e classificar em sono leve ou profundo. O relógio também registrará os momentos em que você acordou durante a noite. Para enviar as informações para o aplicativo basta realizar a sincronização apertando o botão Sync localizado no canto superior direito da home ao lado do ícone de bluetooth. O relógio precisa estar bem ajustado ao pulso para fazer a marcação corretamente.
+Dormi com o relógio mas os dados de sono não foram registrados. O que devo fazer?;Você deve clicar no botão de sincronizar (na tela inicial clique no ícone que fica ao lado do ícone de bluetooth) e aguardar a sincronização. Depois você pode consultar na aba de ‘Sono’ da Tela Inicial ou visualizar seu histórico de sono no menu ‘Dispositivos’>’Sono’.
+[Android] Como ativar as notificações?;"Ao conectar o relógio ao aplicativo, irá aparecer um pop-up solicitando as permissões para que o aplicativo consiga ter acesso as suas notificações, nesse pop-up você precisa tocar em “sim” e seguir o passo-a-passo:
+
+1- Após tocar em sim você precisará procurar o “Mormaii Smartwatches” na lista de aplicativos para permitir o acesso as notificações.
+
+2- Após esse processo toque em “Permitir” pode voltar para o aplicativo.
+
+Pode ser que você não consiga permitir essas notificações por alguma medida de segurança do android, então, você precisa seguir esse passo a passo:
+
+1. No dispositivo Android, abra o app Configurações.
+2. Toque em Apps ou Aplicativos.
+3. Procure por Mormaii smartwatches para ativar uma configuração restrita.
+    - Dica: se o aplicativo não estiver disponível, toque em Ver todos os aplicativos ou Informações do aplicativo.
+4. Toque nos 3 pontinhos no canto superior direito e toque em ”Permitir configurações restritas”
+5. Siga as instruções na tela."
+[IOS] Como ativar as notificações?;"Inicie a conexão do seu relógio com o Mormaii Smartwatches. Após finalizar, vão aparecer dois ‘pop-ups’ do sistema operacional, o primeiro é solicitando o emparelhamento com o celular e o segundo é solicitando a permissão de notificações. 
+
+Após esse processo o seu app já pode acessar suas notificações, agora é só você escolher o aplicativo que deseja ser notificado nas configurações de notificações do aplicativo, pode acessar essa configuração na tela de início ou na tela de dispositivo. Essa configuração também é mostrada assim que você faz a conexão pela primeira vez com o aplicativo.
+
+Lembre-se que para receber as notificações de um app específico no relógio, o aplicativo também precisa estar permitido de te notificar no celular. Caso não receba de algum aplicativo especifico, primeiro verifique se esse aplicativo é suportado pelo relógio, caso seja, verifique o passo a passo: Vá até: Ajustes > Notificações > Aplicativo que deseja ser notificado e em “Alertas” marque as 3 opções (Tela bloqueada, Central de notificações e Banners)."
+[Android] As notificações pararam de funcionar, o que fazer?;"Isso pode acontecer pois o seu celular está restringindo o nosso aplicativo por conta de otimização de bateria. Essa função precisa ser configurada através das configurações do seu celular.
+
+Siga o passo a passo:
+
+1- Acesse as configurações do seu dispositivo;
+
+2- Procure por “Apps” ou “Aplicativos”;
+
+3- Toque em Mormaii Smartwatches;
+
+4- Toque em “Bateria"";
+
+5- Selecione a opção “sem restrição” ou “nenhuma restrição”.
+
+OBS.: As nomenclaturas das configurações podem variar para alguns celulares ou fabricantes.
+
+Após isso, faça o processo de conexão novamente com o aplicativo e desative e ative as notificações nas configurações do aplicativo."
+Como ativar as notificações em celulares Xiaomi?;"Está com problemas de receber notificações no seu Xiaomi? então siga
+
+o passo a passo:
+
+1. Desinstalar o aplicativo Mormaii Smartwatches (lembre-se de sincronizar as informações com o aplicativo para não perder nenhum dado do relógio, para isso, arraste de cima para baixo a tela inicial do aplicativo);
+
+2. Reinicie o seu celular;
+
+3. Instale o aplicativo novamente, faça o processo de primeira conexão, dê as permissões de notificações necessárias;
+
+4. No aplicativo vá até a aba “Dispositivo” no menu inferior e depois em “Notificações” ou procure o atalho na tela inicial do aplicativo;
+
+5. Habilite todas as notificações desejadas;
+
+Depois disso, verifique se está recebendo as notificações dos aplicativos que selecionou. Lembre-se que você só receberá no relógio as notificações que também receber no seu celular, tá bom?
+
+Para garantir que as notificações não volte a desaparecer, faça as seguintes configurações:
+
+1. No seu celular, vá até as Configurações > Apps > Gerenciar apps > Selecione o Mormaii Smartwatches > e na parte de ""Permissões"", habilite a opção ""Início automático"";
+
+2. Vá até as Configurações > Apps > Gerenciar apps > Selecione o Technos Connect > Economia de bateria > Selecione a opção “Nenhuma restrição”;"
+"Como tirar notificações de ""procurando novas mensagens"" do Whatsapp no android?";"Caso você esteja recebendo notificações do Whatsapp como “Procurando novas mensagens” e queira parar de ser notificado tanto no relógio quanto no celular, você precisa fazer essa seleção no seu app, e vou te mostrar como:
+
+- Vá até as configurações do seu celular > clique em aplicativos > procure pelo Whatsapp > toque em notificações;
+- Nessa tela você vai se deparar com todas as notificações que o Whatsapp te envia, Você pode escolher quais deseja desmarcar;
+- Para essa notificação em específico de “Procurando novas mensagens” você pode desmarcar a opção “Outras notificações” que assim vai parar de receber essa mensagem.
+
+Caso esteja recebendo notificações do estilo ""x novas mensagens de x conversas"", até o momento não é possível fazer por esse passo a passo pois é uma notificação do próprio aplicativo que não conseguimos desmarcar.
+
+Você pode também seguir esse passo a passo para outros aplicativos do seu celular e desmarcar os alertas que não deseja receber."
+Como fazer a integração com o Strava?;Para fazer a integração com o Strava é bem rápido e simples, você só precisa ir até a aba “dispositivo” do aplicativo e depois tocar em “Strava”. Nessa tela você vai ler e concordar com as políticas de privacidade do Strava e depois tocar em “Continuar”, automaticamente você será redirecionado para fazer o login com o Strava no navegador ou caso você já tenha o aplicativo do Strava instalado no seu celular, será redirecionado para ele. Após finalizar será redirecionado de volta para o Mormaii Smartwatches e pronto, sua conta do Strava já está integrada com o Mormaii Smartwatches e seus novos exercícios realizados após a integração serão enviados assim que finalizados e sincronizados corretamente.
+Quais exercícios são enviadas para o Strava?;Todos os exercícios feitos no Mormaii Smartwatches ou feito no seu relógio e sincronizado com o aplicativo posteriormente serão enviadas para a sua conta do Strava automaticamente.
+Meus exercícios não estão indo para o Strava, o que fazer?;Assim que você finaliza um exercício pelo Mormaii Smartwatches ou pelo relógio, você precisa sincronizar arrastando a tela inicial do aplicativo de cima para baixo, só assim os exercícios serão enviados para o Strava. Caso mesmo assim o exercício não seja sincronizado, verifique se fez a integração corretamente. Lembre-se que só serão enviados para o Strava exercícios que forem realizados após a integração.
+Quais dados dos meus exercícios vão para o Strava?;Os dados enviados para o strava são: Percurso do exercício (caso tenham iniciado o exercício pelo aplicativo ou caso o seu relógio tenha GPS integrado), calorias, batimentos, distância, ritmo médio e tempo.
+Quais configurações dos meus exercícios consigo fazer no Strava?;No Strava você consegue fazer algumas configurações no seu exercício como colocar uma foto, mudar o nome do exercício, editar métricas que ache relevante, compartilhar seu exercício com uma foto do seu treino e muito mais.
+Como desconectar o Strava do Mormaii Smartwatches?;Para desconectar o Strava do aplicativo e parar de enviar todas as informações dos seus treinos você precisa ir até a aba “Dispositivo”, depois tocar em “Strava” e em seguida toque em “Desconectar”. A partir desse momento sua conta estará desconectada, e nenhum exercício será sincronizado com o Strava.
+Não encontro meu relógio no Strava;"O seu relógio não pode ser conectado no aplicativo do Strava, ele somente pode ser encontrado e pareado pelo Mormaii Smartwatches.
+Todos os exercícios que você fizer pelo seu relógio ou pelo aplicativo, serão enviados automaticamente para o Strava assim que você fizer a sincronização na tela inicial do aplicativo.
+Lembre-se que os exercícios só serão enviados caso você tenha o feito após a integração com o Strava."
+Como é feito o cálculo de distância no aplicativo e no relógio? ;O calculo da distância das atividades, é feita de acordo com a quantidade de passos dados na atividade, multiplicados por um valor do tamanho da passada que você configurou na tela de “Perfil” > “Tamanho da passada” (Com exceção da atividade Bike, que a distância é calculada pelo GPS do seu celular quando a atividade for iniciada pelo app). Dito isto, a distância das atividades pode ter uma diferença da distância calculada por um dispositivo com GPS integrado. 
+[IOS] Como ativar as notificações do Whatsapp Business?;"No IOS não é possível receber notificações do Whatsapp Business pois esse aplicativo não é suportado pelo relógio.
+Por ter uma limitação do IOS, não conseguimos colocar as opções no nosso app de quais aplicativos você deseja receber as notificações, por isso, ao selecionar ""Todos os aplicativos"", o celular só manda pro relógio alguns aplicativos, os mais famosos que são: Facebook, Instagram, Whatsapp (normal) e alguns outros, verifique na central de ajuda os aplicativos suportados por seu relógio."
+Frequência de atualizações do Mormaii Smartwatches;"No Grupo Technos, levamos problemas de segurança e privacidade muito a sério e nos esforçamos para reagir o mais rápido possível. Proteger seu dispositivo e manter a confiança que você deposita em nós é nossa principal prioridade.
+
+Fornecemos atualizações de segurança frequentes para o Mormaii Smartwatches e damos suporte para atualizações de correções de bugs e melhoria dos modelos suportados pelo aplicativo por no mínimo 1 ano a contar da data de lançamento do produto.
+
+Modelos suportados e data de lançamento:
+
+Mormaii FitGPS - Junho/2019
+Mormaii FitSport - Outubro/2020
+Mormaii Life - Março/2021
+Mormaii Life GPS- Fevereiro/2022
+Mormaii Force - Outubro/2023
+Mormaii Life Ultra - Março 2024
+Mormaii Life Ultra GPS - Fevereiro 2025
+Mormaii Life Ultra com caixa redonda - Março 2025"
+Versões dos sistemas operacionais que damos suporte:;"O aplicativo Mormaii Smartwatches funciona em celulares com as seguintes versões dos sistemas operacionais:
+IOS: 15 ou superior
+Android 10 ou superior
+
+ATENÇÃO: As versões suportadas podem alterar com o passar dos anos e o avanço das tecnologias utilizadas. Sempre que tiverem alterações, vamos atualizar nesse artigo."
+[IOS] Meu relógio perdeu a conexão. O que devo fazer?;"Caso a conexão entre relógio e aplicativo seja perdida, basta abrir o aplicativo em seu celular e aguardar a conexão ser refeita automaticamente.
+Caso o aplicativo não consiga reestabelecer a conexão automaticamente, será preciso refazer o passo-a-passo de conexão.
+
+Além disso, será necessário verificar se o seu aplicativo está conectado corretamente com o seu celular. Sempre que você faz o processo de conexão, dois ‘popups’ do IOS são abertos, o primeiro solicita o emparelhamento com o celular e o segundo solicita a permissão de notificação, você precisa tocar em “Emparelhar” e “Permitir” respectivamente.
+
+Caso ainda assim não funcione, entre nas configurações de bluetooth do seu celular e verifique se o relógio está com o texto ”Conectado” ao lado do nome, caso não esteja, toque no ícone de informação e em seguida toque em “esquecer esse dispositivo”. Volte ao aplicativo e siga os passos solicitados por ele."
+Recebo notificação mesmo de grupos silenciados, o que fazer?;Mesmo que um grupo do seu Whatsapp esteja silenciado, pode ser que você ainda esteja recebendo essa notificação na central de notificações do seu celular. Caso isso esteja acontecendo, você precisa modificar as configurações de grupos silenciados no aplicativo do whatsapp.
+Por que precisamos das permissões de notificações e bateria?;"Para a sua segurança, todos os aplicativos precisam solicitar permissões para acessar recursos do seu smartphone. O Mormaii Smartwatches não é diferente. 
+
+Sabendo disso, além das permissões de bateria e de notificações, que servem principalmente para que você consiga receber as notificações no seu smartwatch, também solicitamos outras permissões para que todas as funções do aplicativo funcionem sem dificuldades."
+Como ser notificado de uma ligação pelo relógio?;"Após feita a conexão do seu relógio com o aplicativo, e dado todas as permissões necessárias. Você pode acessar o atalho de “Notificações” na tela inicial do aplicativo ou no menu ""Dispositivo” e ligar a função “Chamadas”. Após esse processo, seu relógio te notificará sempre que alguém estiver te ligando. "
+Posso atender e recusar uma ligação no relógio?;Você consegue recusar uma ligação pelo relógio caso o sistema operacional do seu celular seja IOS. Para celulares com android, não é possível recusar uma ligação pelo relógio. Para esse dispositivo, não é possível atender uma ligação pelo relógio.
+Não está aparecendo o nome do contato na ligação, o que fazer?;O nome do contato aparece no relógio caso você tenha o contato salvo no seu celular e caso você tenha dado todas as permissões de ligação corretamente.
+O relógio parou de notificar ligação, o que fazer?;"Para voltar a receber notificações de ligação, siga os passos abaixo:
+
+1- Verifique se o relógio está ligado;
+
+2- Verifique se o relógio está conectado com o aplicativo;
+
+3- Verifique se o aplicativo está com todas as permissões necessárias para que o relógio consiga receber as notificações;
+
+4- Verifique se o modo ""Não perturbe” do aplicativo está ligado.
+
+5- Verifique se a notificação de “Chamada” está ativa, caso já esteja, você pode desligar e ligar a função para atualizar a configuração no relógio."
+Consigo ser notificado de ligação de Whatsapp, skype, teams e outros?;Sim, todas as ligações que receber no seu celular, sendo de aplicativos ou não, seu relógio te notificará.
+Os meus dados estão seguros com a Technos?;"Sim! Todos os seus dados pessoais e dados gerados pelo relógio ou aplicativo está em conformidade com a LGPD e estão seguros em nossos servidores. 
+
+Seus dados não são fornecidos ou enviados para aplicativos e empresas terceiras sem o seu consentimento.
+
+E vale lembrar que todos os dados são seus, e você pode excluí-lo de nossos servidores caso queira, para isso, basta excluir a conta na tela de perfil."
+É possível apagar meus dados?;"Sim, você pode excluir todos os seus dados pessoais e dados gerados pelas funcionalidades do relógio que foram sincronizados com o aplicativo quando quiser. Para isso, basta acessar a tela de perfil e tocar no botão de excluir conta.
+
+Importante lembrar que após a exclusão da sua conta, seus dados não poderão ser recuperados."
+É possível apagar meus dados?;"Sim, você pode excluir todos os seus dados pessoais e dados gerados pelas funcionalidades do relógio que foram sincronizados com o aplicativo quando quiser. Para isso, basta acessar a tela de perfil e tocar no botão de excluir conta.
+
+Importante lembrar que após a exclusão da sua conta, seus dados não poderão ser recuperados."
+O aplicativo está em conformidade a LGPD?;"Sim! O Mormaii Smartwatches se adequa a lei de proteção de dados (LGPD) e garante a proteção e segurança de seus dados. 
+
+Para saber quais dados coletados pelo aplicativo e como tratamos e utilizamos esses dados, acesse as políticas de privacidade, termos de uso e termos de consentimento na central de ajuda do aplicativo."
+Aplicativos suportados;As notificações aplicativos que são suportados pelo relógio são: Amazon, Facebook, Twitter (X), Instagram, Linkedin, Snapchat, TikTok, Youtube, Whatsapp, Whatsapp Business, SMS, Teams, Gmail, Outlook, Telegram, Uber, Calendário, Netflix, Prime vídeo, Google calendar e outros.  
+Quais exercícios posso iniciar pelo aplicativo?;Pelo aplicativo você consegue iniciar os exercícios: Beach Tênis, bike, caminhada, corrida, crossfit, futevolêi, esteira, futebol, spinning, vôlei, academia, yoga e outros (customizável).
+Como iniciar um exercício pelo relógio;"Para iniciar a atividade pelo relógio, primeiro você precisa escolher pelo aplicativo até 8 atividades para que fique salvas no relógio. Para isso, vá até ""Dispositivo” > selecione a opção “troca de exercício” > escolha até 8 atividades que deseja enviar para o relógio e toque em ""Salvar”. Você pode alterar as atividades sempre que desejar.
+
+No relógio, clique no botão lateral para acender a tela, arraste o de do da direita para a esquerda e toque em “Exercícios” e escolha a atividade para iniciar.
+
+As atividades disponíveis para serem iniciadas pelo relógio são: Beach Tênis, bike, caminhada, corrida, crossfit, futevolêi, esteira, futebol, spinning, vôlei, academia, outros, yoga, surf, natação e SUP."
+O relógio tem GPS integrado?;Sim! com o GPS integrado, você consegue iniciar a atividade pelo relógio e dispensa o uso do celular durante a atividade. As atividades que possuem o selo “GPS” você consegue capturar o percurso e a distância com a precisão do GPS.
+Como salvar um exercício no aplicativo?;"Sempre que quiser que um exercício seja enviada para o aplicativo, você precisa fazer a sincronização de dados.
+
+Para isso é simples, o aplicativo faz sincronizações automáticas frequentes, além disso, vocês consegue fazer a sincronização manual arrastando a tela inicial de cima para baixo."
+Posso excluir um exercício?;Não, assim que um exercício é salvo no aplicativo, o mesmo não poderá ser excluído.
+Quais atividades possuem GPS?;O relógio possui 4 atividades com GPS, as atividades são: Bike, caminhada, corrida e outros. Todas essas atividades vão puxar informações de distância e percurso com a precisão do GPS integrado.
+O que é o A-GPS?;GPS assistido (A-GPS) é uma versão aprimorada de GPS. A-GPS recebe dados de suporte através de uma conexão com a internet. Por isso, assim que você pareia o relógio pela primeira vez, o A-GPS é atualizado automaticamente e pega os dados atualizados de posição.
+Como atualizar o A-GPS?;Caso o relógio solicite a atualização do A-GPS, você pode fazer a sincronização na tela inicial do aplicativo ou fazer a atualização manual tocando no botão “Atualizar AGPS” no menu dispositivo.
+O que é o exercício customizado?;O exercício customizado serve para que você vá além com seu Mormaii Life GPS, você consegue iniciar o exercício “Outros” e depois de finalizado, você consegue trocar o nome do exercício para o nome que desejar. No aplicativo você terá algumas opções de exercícios disponível para selecionar ou personalizar com o nome que desejar.
+Consigo compartilhar um exercício customizado?;Sim, assim como as outras atividades, basta você ir até o resumo da atividade no histórico ou na tela inicial do aplicativo. Na tela de resumo, toque no ícone de compartilhar localizado ao lado direito do nome da atividade e em seguida toque em compartilhar.
+Como editar o nome do exercício customizado?;Para editar o nome da atividade, entre no histórico da atividade “Outros” > selecione a atividade que deseja editar o nome > toque no lápis localizado do lado esquerdo do nome > digite o nome da atividade ou escolha a atividade na lista > toque em salvar e pronto, sua atividade já estará com o nome customizado.
+Meu relógio é à prova d’água?;O Mormaii Force possui resistência à água de 5 ATM. Isto lhe permite o uso diário, garantindo a resistência à submersão d’água de até 50m, tomar banho no chuveiro (água fria). Não recomendamos que aperte o botão lateral quando estiver com o relógio submerso.
+Posso entrar no mar com meu relógio?;Você pode utilizar o seu Mormaii Force em água salgada. Recomendamos que após o uso na água salgada, lave o relógio em água doce corrente para retirar todo o sal que possa ter ficado no produto.
+Posso nadar com meu relógio?;Com a resistência à água de 5ATM você pode praticar esportes em piscinas ou mar aberto. Não recomendamos que aperte o botão lateral com o relógio submerso. Lembre-se de lavar o relógio em água doce corrente após o uso em piscinas ou mares.
+Posso tomar banho com meu relógio?;O Mormaii Force possui resistência de 5ATM (50 metros), com isso, você pode tomar banho com o seu relógio.
+Posso lavar as mãos com meu relógio?;Você pode lavar as mãos enquanto usa seu Mormaii Force.
+O que significa o selo MIL-STD 810H?;"O selo MIL-STD 810H refere-se a um padrão militar dos Estados Unidos, conhecido como ""MIL-STD-810H"" ou ""MIL-STD-810H Method 516.8"", que define critérios para testes de resistência ambiental e durabilidade de equipamentos militares. Ele estabelece condições e procedimentos de teste para garantir que dispositivos e equipamentos possam funcionar de maneira confiável em ambientes adversos, como temperaturas extremas, choques, vibrações e exposição a poeira e umidade. Essa norma é frequentemente usada como referência na indústria para demonstrar a robustez e a capacidade de resistência de produtos eletrônicos e outros dispositivos em condições desafiadoras."
+Quais os testes militares foram realizados no Mormaii Force?;"O Mormaii Force foi submetido a 8 testes militares de resistência, sendo eles: 
+
+1- Altitude - MIL-STD 810H:2019 - Método 500.6
+
+2- Baixa temperatura - MIL-STD 810H:2019 - Método 502.7
+
+3- Alta temperatura - MIL-STD 810H:2019 - Método 501.7
+
+4- Radiação solar - MIL-STD 810H:2019 - Método 505.7
+
+5- Humidade - MIL-STD 810H:2019 - Método 507.6
+
+6- Vibração - MIL-STD 810H:2019 - Método 514.8
+
+7- Impacto - MIL-STD 810H:2019 - Método 516.8
+
+8- Maresia - MIL-STD 810H:2019 - Método 509.7"
+O Mormaii force possui monitoramento de sono?;Sim, o Mormaii Force possui a função de monitoramento de sono e para monitorar basta você conectar o relógio com o aplicativo e dormir com o relógio. Após finalizado o sono, basta sincronizar com o aplicativo para puxar os dados.
+Como faço para monitorar meu sono?;Para monitorar seu sono basta dormir com seu Mormaii force bem ajustado ao pulso. O relógio irá detectar automaticamente seu ciclo de sono e classificar em sono leve ou profundo. O relógio também registrará os momentos em que você acordou durante a noite mas esse tempo não será adicionado no tempo total de sono. Para enviar as informações para o aplicativo basta realizar a sincronização arrastando a tela de cima para baixo na tela inicial do aplicativo. O relógio precisa estar bem ajustado ao pulso para fazer a marcação corretamente.
+Dormi com o relógio mas os dados de sono não foram registrados. O que devo fazer?;Você deve clicar no botão de sincronizar arrastando a tela de cima para baixo na tela inicial do aplicativo e aguardar a finalização. Depois você pode consultar no atalho de ‘Sono’ da Tela Inicial.
+Como eu altero minha meta de sono?;Para alterar a sua meta de sono, basta acessar a tela de perfil (Tocando na sua foto da tela inicial do aplicativo) depois toque na opção de “Definir objetivos” e altere para o tempo desejado.
+Meus passos do aplicativo não batem com o relógio, o que fazer?;O Mormaii Force envia os dados de passos para o aplicativo em um intervalo de tempo de 5 a 30 minutos, ou seja, caso você gere passos no seu relógio e já faça a sincronização com o aplicativo, provavelmente os dados mostrados na tela inicial não será o mesmo que o mostrado no aplicativo. Mas não se preocupe, todos os seus dados serão alvos no aplicativo em todas as sincronizações feitas durante os dias.
+Como salvo meus passos no aplicativo?;"Para salvar os dados de passos no aplicativo basta abrir o aplicativo e arrastar a tela de cima para baixo na tela inicial.
+
+Ao finalizar a sincronização, os dados de passos do dia ficarão salvos no aplicativo e serão sincronizados com o servidor no final do dia atual, ou seja, caso durante o dia você desinstalar o aplicativo, desconectar o relógio forçadamente ou fizer o logout, os dados do dia serão perdidos no relógio e também no aplicativo."
+Passos registrados mesmo sem andar, por guê?;"O sensor do relógio que conta os passos é ativado assim que você movimenta o braço e o relógio entende que você está se movimentando. 
+
+Isso pode acontecer também em transportes, caso o movimento se assemelhe ao movimento de uma caminhada ou corrida. 
+
+O monitoramento de passos é uma estimativa de movimento diário e os dados podem variar de acordo com o ambiente e o movimento gerado pelo pulso."
+Como inicio um monitoramento de batimentos?;"Seus batimentos podem ser capturados de duas formas, a primeira é manualmente no relógio. Você consegue navegar até a tela de batimentos no relógio e aguardar a medição. 
+
+A segunda forma é utilizando o monitoramento automático, com essa função ativada, o seu relógio irá ler seus batimentos 24h por dia e com um intervalo de 5 minutos entre as medições. 
+
+A função de batimento automática poderá ser acessada pela tela de dispositivo com a função de nome ""Batimento automático” ou pela tela de histórico de batimentos tocando no botão de engrenagem localizado no topo da tela ao lado do ícone de central de ajuda.
+
+Mas atenção, com essa função automática ativada, o tempo de bateria do relógio poderá ser consumida mais rapidamente."
+Por quanto tempo meu batimento é monitorado?;Após o monitoramento automático ser ativado, seus batimentos serão monitorados 24h por dia com um intervalo de 5 minutos entre as medições.
+Como salvo meus batimentos no aplicativo?;"Para salvar os batimentos gerados automaticamente no aplicativo basta abrir o aplicativo e arrastar a tela de cima para baixo. Com isso, o aplicativo fará a sincronização e atualizará todos os dados na tela inicial e também no histórico.
+
+Atenção: Os dados de batimentos ficam salvos no aplicativo e são enviados para o servidor a cada 1h, ou seja, caso você desconecte o relógio forçadamente, desinstale o aplicativo, resete o relógio ou faça logout no aplicativo, seus dados de batimentos da hora corrente poderão ser perdidos, mas não se preocupe pois os dados das horas anteriores já sincronizadas com o aplicativo continuarão salvos na sua conta e não serão perdidos."
+Informações técnicas do relógio;"Tamanho da tela: 1.72”
+
+Resolução da tela: 240px x 280px
+
+Tecnologia do display: TFT-IPS
+
+Material da pulseira: Silicone e Aço
+
+Tamanho da bateria: 380mAh
+
+Duração da bateria: Até 15 dias de uso
+
+Tipo da bateria: Polímero de lítio
+
+Tempo de carregamento: até 2h30
+
+Processador: RealTek 8762DK
+
+Material da caixa: Polímero com aro de aço
+
+Geração do bluetooth: 5.0"
+Como salvar os dados de Oxigenação no aplicativo.;Para salvar as oxigenações medidas no relógio manualmente no aplicativo, basta  arrastar a tela inicial do relógio de cima para baixo. Com isso, o aplicativo fará a sincronização e atualizará todos os dados na tela inicial e também no histórico.
+Quantos dados de oxigenação são armazenados no relógio?;Você consegue salvar no relógio até 7 medições únicas de oxigenação, para que você não perca nenhum dado, sempre que fizer uma medição de oxigenação no relógio, recomendamos que entre no aplicativo e faça a sincronização para que tudo fique salvo corretamente na sua conta.
+Consigo monitorar minha oxigenação automaticamente?;Não, o Mormaii Force não possui medições automáticas de oxigenação.
+Como sincronizo o clima no relógio?;Assim que você conecta o relógio com o aplicativo, todas as informações de clima são automaticamente atualizadas no relógio.
+O clima do relógio está diferente do celular, por quê?;"Utilizamos o serviço de clima da accuweather, ou seja, todas as informações relacionadas a clima, são puxadas desse serviço.
+
+Caso o serviço que o aplicativo do seu celular utilize seja outro, possivelmente as informações serão distintas.
+
+Lembre-se que para manter os dados de clima sempre atualizados, você precisa entrar no aplicativo durante o dia e aguardar a sincronização ser finalizada."
+O clima sincroniza automaticamente no relógio todos os dias?;A informação de clima é atualizada automaticamente assim que você entra no aplicativo. Caso você não entre no aplicativo, essa informação ficará desatualizada.
+Preciso de internet para sincronizar o clima?;Sim! Como utilizamos um serviço de clima para captar essas informações, você precisa que seu celular esteja conectado a internet para que as informações sejam enviadas para o relógio.
+Como ativo o controle de música?;O controle de música do Mormaii Force já fica ativado por padrão, com isso, basta iniciar uma reprodução pelo seu aplicativo preferido e controlar através do relógio.
+Posso controlar as músicas durante um exercício?;Não, a função de controle de música só poderá ser encontrada nos atalhos do relógio (Arrastando a tela da direita para a esquerda) ou através do menu do relógio (Arrastando a tela da esquerda para a direita ou clicando no botão lateral inferior)
+Como funciona o alerta de sedentarismo?;Essa função te lembra de levantar e se mover no período e intervalo configurado na função. Além disso, o relógio só vai te notificar, caso você não atinja a meta de passos calculadas com base na sua meta diária dividida pelo período e intervalo configurado.
+A meta de passos do alerta de sedentarismo tem a ver com a minha meta diária?;A sua meta diária de passos, que é configurada no seu perfil ou no momento da conexão com o relógio, serve como ponto de partida para calcular quantos passos você deve dar dentro do período e intervalo especificados, a fim de alcançar a sua meta diária de passos.
+Posso enviar quantos mostradores para o relógio?;"Você consegue enviar 1 mostrador por vês para o relógio.
+
+Sempre que você enviar um novo mostrador o anterior será substituído automaticamente."
+Quero excluir um mostrador fixo, eu posso?;Não, o Mormaii Force possui 8 mostradores físicos e 1 espaço livre para usar com as mais de 70 opções de mostradores da Galeria Mormaii.
+Por que demora muito para sincronizar um mostrador?;"O Mostrador é baixado do nosso servidor para o seu celular e logo em seguida é enviado para o relógio. 
+
+Essa ação de baixar o mostrador para o celular pode ser influenciada pela qualidade da internet que está utilizando. Já o envio pode demorar mais de acordo com a tecnologia bluetooth, tamanho de arquivo e possíveis interferências de sinal."
+Os mostradores demoram carregar no aplicativo, por quê?;Sempre que você abre o aplicativo, os mostradores são buscados no nosso servidor e mostrado no aplicativo. A demora, pode ser causada pela qualidade da internet que esteja utilizando.
+Sempre que envio um mostrador novo, o anterior sai do relógio, por quê?;O Relógio possui apenas 1 espaço para o mostrador da galeria, por isso, sempre que enviar um mostrador, o antigo será alterado para o novo.
+O que são os mostradores favoritos e como configurar?;"Os mostradores favoritos são todos os mostradores que você selecionou para que você consiga visualizar e trocar do relógio de forma mais fácil e rápida. Esses mostradores ficarão disponível na tela inicial e na tela de dispositivo, além de ser possível acessar também pela própria galeria.
+
+Esses mostradores ficam amenas no aplicativo, e não estão todos disponíveis no relógio, com isso, sempre que quiser enviar para o relógio basta tocar no mostrador selecionado e em seguida tocar no botão de envio para o relógio.
+
+Você consegue selecionar até 10 opções de mostradores como favorito, basta tocar no mostrador escolhido e tocar no botão de ""Favoritar” que será mostrado abaixo da foto do relógio."
+Me solicitaram baixar outro aplicativo, o que fazer?;"O seu smartwatch funciona apenas com aplicativos Mormaii Smartwatches que pode ser baixado através da loja de aplicativos oficial do sistema operacional do seu celular (PlayStore ou AppStore). Caso alguém se passando por funcionários do Grupo Technos ou Mormaii entre em contato solicitando a instalação de outro aplicativo no seu celular por meio das lojas oficiais ou de link externo, desconfie e entre em contato conosco através do ""Fale com a gente” no aplicativo."
+O que é o histórico de calorias?;"O Histórico de Calorias apresenta a soma das calorias totais consumidas ao longo do seu dia, refletindo o valor total de energia despendido. Para estimar esse número, o relógio inteligente utiliza as informações fornecidas no seu perfil, como gênero biológico, peso, altura e idade. Com base nesses dados, o dispositivo calcula uma média do gasto energético diário e por hora.
+
+Além do gasto energético basal, o histórico também registra o dispêndio de calorias ativas, que representam a energia utilizada acima do nível basal. Essas calorias ativas podem ser resultado de atividades como uma caminhada leve, tarefas domésticas ou mesmo exercícios físicos realizados enquanto utiliza o relógio.
+
+As calorias gastas em atividades ativas são então somadas ao gasto calórico basal, formando assim o total de calorias consumidas no período. Essa abordagem oferece uma visão abrangente do gasto energético, proporcionando insights valiosos para o acompanhamento e a gestão da sua saúde e condicionamento físico."
+Qual a diferença entre calorias ativas e calorias totais?;"Calorias ativas e calorias totais referem-se a diferentes componentes do gasto energético diário. Aqui está a diferença entre eles:
+
+1. **Calorias Ativas:**
+    - Representam a quantidade de calorias gastas durante atividades físicas específicas ou exercícios.
+    - Incluem a energia utilizada para realizar atividades como caminhadas, corridas, exercícios de academia, esportes, ou qualquer outra forma de movimento físico planejado.
+    - Essas calorias são consideradas ""ativas"" porque são resultantes de ações voluntárias e intencionais que demandam esforço físico.
+2. **Calorias Totais:**
+    - Refletem o total de calorias gastas pelo corpo ao longo do dia, abrangendo tanto o gasto energético basal quanto as calorias ativas.
+    - O gasto energético basal (GEB) é a quantidade mínima de calorias necessárias para manter funções vitais do corpo em repouso absoluto, como respiração, circulação sanguínea e manutenção da temperatura corporal.
+    - As calorias totais, portanto, representam a soma do GEB com as calorias ativas, oferecendo uma visão abrangente do consumo energético diário.
+
+Em resumo, as calorias ativas referem-se à energia gasta durante atividades físicas específicas, enquanto as calorias totais representam o montante global de calorias consumidas, incluindo o gasto basal e as calorias ativas. Ambos os conceitos são importantes para entender o equilíbrio energético e são frequentemente considerados em contextos de saúde, fitness e gestão de peso."
+O que é gasto energético basal?;"O gasto energético basal (GEB), também conhecido como taxa metabólica basal (TMB), refere-se à quantidade mínima de energia que o organismo precisa para manter funções vitais em repouso absoluto, em um ambiente termoneutro. Isso inclui funções como respiração, circulação sanguínea, manutenção da temperatura corporal, atividade celular e outras funções metabólicas essenciais.
+
+O GEB é expresso em calorias por unidade de tempo (geralmente por dia) e representa a maior parte do gasto energético diário de uma pessoa. Cerca de 60 a 70% das calorias totais queimadas diariamente por um indivíduo geralmente são atribuídas ao gasto energético basal.
+
+Vários fatores influenciam o GEB, incluindo a idade, sexo, massa magra, massa gorda e a genética de uma pessoa. Pode haver variações significativas entre indivíduos, mesmo quando fatores como peso e altura são semelhantes.
+
+Entender o GEB é importante em contextos como a avaliação do gasto energético total de uma pessoa, auxiliando profissionais de saúde, nutricionistas e educadores físicos a desenvolverem estratégias adequadas para o controle de peso, a prescrição de dietas e a elaboração de programas de exercícios."
+O que é o histórico de atividades?;"O histórico de atividades é um compilado de 3 informações sobre as atividades do seu dia, as calorias ativas, Tempo de exercício e tempo em movimento. 
+
+Essas informações são importantes para você acompanhar sua evolução diária e semanal sobre suas atividades."
+O histórico de atividades é composto por quais informações?;Esse histórico é composto pelas calorias ativas, tempo de exercício e tempo em movimento
+O que significa cada informação do histórico de atividades?;"Calorias ativas: Representam a quantidade de calorias gastas durante atividades físicas específicas ou exercícios. Incluem a energia utilizada para realizar atividades como caminhadas, corridas, exercícios de academia, esportes, ou qualquer outra forma de movimento físico planejado. Essas calorias são consideradas ""ativas"" porque são resultantes de ações voluntárias e intencionais que demandam esforço físico.
+
+Tempo de exercício: O tempo em exercício é o período em que você se dedica praticando exercícios com o seu relógio ou pelo aplicativo ou praticando alguma atividade ou caminhada sem necessariamente iniciar um exercício pelo relógio ou aplicativo.
+
+Tempo em movimento: O tempo em movimento mostra quantas horas no dia você se movimentou e atingiu seu objetivo de passos. Você consegue verificar no gráfico duas cores diferentes para as horas que você atingiu seu objetivo e as horas que você caminhou porém não conseguiu atingir seu objetivo."
+O Tempo de exercício tem a ver com os exercícios feitos no aplicativo ou relógio?;Sim! Nesse tempo, serão somados o tempo que você ficou em atividade durante o seu dia ou até mesmo o tempo que fez algum esforço durando o seu dia sem iniciar um exercício pelo app ou relógio.
+Como editar os objetivos do histórico de atividades?;"Para editar os seus objetivos você pode acessar dois caminhos:
+
+1- Na tela de histórico de atividades, toque no botão de engrenagem ao lado do ícone de central de ajuda no canto superior direito da tela.
+
+2- Acesse a opção “Editar objetivos” na tela de perfil. Basta tocar na sua foto na tela inicial do aplicativo."
+Esse histórico tem relação com o alerta de sedentarismo?;"Certamente, a informação crucial aqui é o ""Tempo em Movimento"". Esta métrica está diretamente relacionada à quantidade total de passos que você deseja alcançar diariamente. Em termos práticos, o aplicativo realiza o cálculo ao dividir o número total de passos pelo tempo total em movimento estipulado para atingir sua meta. Dessa maneira, o aplicativo determina a média de passos por hora necessária para alcançar seu objetivo diário.
+
+Caso a função de alerta de sedentarismo esteja habilitada, o relógio desempenha um papel proativo, notificando você 10 minutos antes do término de cada hora. Essa notificação serve como um lembrete oportuno para incentivar movimentos e assegurar que você permaneça no caminho certo para alcançar sua meta diária de passos. Essa abordagem estratégica ajuda a manter um estilo de vida mais ativo e saudável, integrando a conscientização sobre a importância de se movimentar ao longo do dia."
+Quais modalidades o meu relógio consegue monitorar?;"Você pode monitorar diretamente pelo seu relógio 24 exercícios (descritas abaixo).
+
+1. Bike
+2. Caminhada
+3. Corrida
+4. Simulador de escada
+5. Beach tênis
+6. Basquete
+7. Futebol
+8. Natação
+9. Tênis
+10. Spinning
+11. Surf
+12. Yoga
+13. Academia
+14. Dança
+15. Pilates
+16. Elíptico
+17. Vôlei
+18. Esteira
+19. SUP
+20. Futevôlei
+21. Remada
+22. Cross Training
+23. Trilha
+24. Outros"
+Como realizo o monitoramento de um exercício?;"Para realizar o monitoramento de um exercício, com seu relógio conectado corretamente ao aplicativo, acesse a aba ‘Exercícios’ do aplicativo e selecione a modalidade desejada. Em seguida defina uma meta ou toque no botão de “Iniciar sem definir meta”.
+Ao encerrar o exercício, você deve sincronizar os dados do relógio com o aplicativo. 
+
+Você também pode iniciar a atividade diretamente pelo seu relógio e fazer o exercício sem estar pareado ou com o celular durante o exercício. Ao finalizar o exercício pelo relógio, abra o aplicativo e faça a sincronização para ver todos os dados do exercício no histórico.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Como defino as metas para meus exercícios?;"Ao iniciar um monitoramento de exercício pelo aplicativo, é possível definir uma meta.
+As metas podem ser de distância (ex: correr 5km), de tempo (ex: correr por 30min) ou de caloria (ex: correr até queimar 500kcal). Só é possível escolher uma meta por exercício. Para exercícios que não possuem distância, você só poderá escolher entre a meta de caloria ou de tempo.
+Quando a meta for alcançada, você receberá uma notificação em seu celular lhe avisando. Não há nenhuma notificação no seu smartwatch e o exercício não será encerrada quando atingir a meta.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+O que fazer para que o mapa seja registrado durante a realização de um exercício?;"Para que o mapa possa ser registrado é preciso iniciar o monitoramento do exercício pelo aplicativo. Certifique-se também de que seu relógio está conectado corretamente ao aplicativo, a Localização (GPS) de seu celular está ativada e a permissão de localização esteja configurada como “Permitir sempre”.
+O GPS do celular é usado para o desenho do mapa e para medir a distância percorrida durante o exercício.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Posso fazer um exercício sem levar o celular comigo?;"Sim, você pode iniciar qualquer exercício diretamente pelo seu relógio sem a necessidade de estar conectado no momento ou levar o celular com você durante o exercício. Quando o exercício for finalizado, basta abrir o aplicativo e fazer a sincronização para que o exercício seja salvo no seu histórico.
+Exercícios que possuem mapa ou distância, esses dados só serão calculados e mostrados corretamente caso o exercício seja iniciado pelo aplicativo e o celular seja carregado durante todo o exercício."
+Meu relógio tem GPS integrado?;Não, o modelo Mormaii Force não possui GPS integrado. O aplicativo acessa seus dados de geolocalização para traçar o mapa e calcular a distância com precisão dos seus exercícios.
+O relógio usa qual satélite de GPS?;O relógio possui o chip GPS integrado e se comunica com os satélites de GPS e Glonass, para aumentar ainda mais a precisão da distância e o percurso.
+Quais testes foram feitos no GPS?;Para garantir a precisão do GPS do relógio, fizemos diversas rodadas de testes junto ao IPT (Instituto de Pesquisas Tecnológicas). Nesses testes foi identificado que o GPS do relógio possui uma excelente precisão e que possui uma variação de até 2,5 metros.
+Aplicativos suportados;As notificações aplicativos que são suportados pelo relógio são: Amazon, Magalu, Americanas, Enjoei, Aliexpress, Shopee, Facebook, Twitter(X), Instagram, Linkedin, Snapchat, TikTok, Youtube, Pinterest, whatsapp, Teams, Gmail, Outlook, Telegram, 99 taxi, Uber, Facebook Messenger, Ifood, Mercado Livre, Calendário, Whatsapp Business, Nubank, Bradesco, Itaú, Banco do brasil, Correios, Banco inter, Caixa econômica, Neon, Santander, Next, Netflix, Prime vídeo, Google calendar, Shein, Google task, Microsoft todo, TickTick, Todoist  e outros.
+Quais modalidades o meu relógio consegue monitorar?;"Você pode monitorar diretamente pelo seu relógio 100 exercícios podendo escolher até 20 para estar no relógio como acesso rápido, os exercícios disponíveis são:
+
+1. Corrida 
+2. Corrida esteira
+3. Caminhada
+4. Caminhada esteira
+5. Bike
+6. Spinning
+7. Natação na piscina
+8. Natação no mar
+9. Trilha
+10. Yoga
+11. Dança
+12. Remo
+13. Elíptico
+14. Tecido acrobático
+15. Cross Training
+16. HIIT
+17. SUP
+18. Core
+19. Pilates
+20. Alongamento
+21. Academia
+22. Aeróbico
+23. Slackline
+24. Abdominal
+25. Capoeira
+26. Jazz
+27. Barra
+28. Krav Magá
+29. Agachamentos
+30. Luta livre
+31. Treino funcional
+32. Zumba
+33. Boxe
+34. Artes marciais
+35. Tai Chi
+36. Taekwondo
+37. Karatê
+38. Judô
+39. Esgrima
+40. Arco e flecha
+41. Ginástica
+42. Levantamento de peso
+43. Barras paralelas
+44. Vôlei
+45. Arremesso de peso
+46. Boliche
+47. Tênis
+48. Tênis de mesa
+49. Golfe
+50. Futebol
+51. Basquete
+52. Beach tênis
+53. Frescobol
+54. Hóquei
+55. Futebol americano
+56. Squash
+57. Softball
+58. Handball
+59. Altinha
+60. Beisebol
+61. Futsal
+62. Nado sincronizado
+63. Muai Thay
+64. Sapateado
+65. Break dance
+66. Balé
+67. Atletismo
+68. Escalada
+69. Pular corda
+70. Peteca
+71. Dardos
+72. Hipismo
+73. Simulador de escada
+74. Bocha
+75. Pesca
+76. Foil Surfing
+77. Jiu Jitsu
+78. Patinação
+79. Snowboard
+80. Esqui
+81. Marcha atlética
+82. Funcional na praia
+83. Corrida com obstáculos
+84. Corrida de revezamento
+85. Pole dance
+86. Surfe
+87. Vela
+88. Windsurf
+89. Caiaque
+90. Wakeboard
+91. Volei de praia
+92. Motocross
+93. Kickboxe
+94. Kung Fu
+95. Montanhism
+96. Skate
+97. Rapel
+98. Futvôlei
+99. Parkour
+100. Montain bike"
+Como realizo o monitoramento de um exercício?;"Para realizar o monitoramento de um exercício, com seu relógio conectado corretamente ao aplicativo, acesse a aba “Exercícios” do aplicativo e selecione a modalidade desejada. Em seguida defina uma meta ou toque no botão de “Iniciar sem definir meta”.
+Ao encerrar o exercício, você deve sincronizar os dados do relógio com o aplicativo. 
+
+Você também pode iniciar o exercício diretamente pelo seu relógio e faze-lo sem estar conectado com o celular durante o exercício. Ao finalizar o exercício pelo relógio, abra o aplicativo e faça a sincronização para ver todos os dados dele no histórico.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Como defino as metas para meus exercícios?;"Ao iniciar um monitoramento de exercício pelo aplicativo ou pelo relógio, é possível definir uma meta.
+As metas podem ser de distância (ex: correr 5km), de tempo (ex: correr por 30min) ou de caloria (ex: correr até queimar 500kcal). Só é possível escolher uma meta por exercício. Para exercícios que não possuem distância, você só poderá escolher entre a meta de calorias ou de tempo.
+Quando a meta for alcançada, você receberá uma notificação em seu celular ou no relógio lhe avisando.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+O que fazer para que o mapa seja registrado durante a realização de um exercício?;"Para que o mapa possa ser registrado é preciso iniciar o monitoramento do exercício pelo aplicativo. Certifique-se também de que seu relógio está conectado corretamente ao aplicativo, a Localização (GPS) de seu celular está ativada e a permissão de localização esteja configurada como “Permitir sempre”.
+O GPS do celular é usado para o desenho do mapa e para medir a distância percorrida durante o exercício em KM.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Posso fazer um exercício sem levar o celular comigo?;"Sim, você pode iniciar qualquer exercício diretamente pelo seu relógio sem a necessidade de estar conectado no momento ou levar o celular com você durante o exercício. Quando o exercício for finalizado, basta abrir o aplicativo e fazer a sincronização para que o exercício seja salvo no seu histórico.
+Exercícios que possuem mapa ou distância, esses dados só serão calculados e mostrados corretamente caso o exercício seja iniciado pelo aplicativo e o celular esteja com você durante todo o exercício."
+Meu relógio tem GPS integrado?;Não, o modelo Mormaii Life Ultra não possui GPS integrado. O aplicativo acessa seus dados de geolocalização para traçar o mapa e calcular a distância com precisão dos seus exercícios.
+Meu relógio é à prova d’água?;O seu relógio possui resistência à água de 5 ATM. Isto lhe permite o uso diário, garantindo a resistência à submersão d’água de até 50m, tomar banho no chuveiro (água fria). Não recomendamos que aperte o botão lateral quando estiver com o relógio submerso.
+Posso entrar no mar com meu relógio?;Você pode utilizar o seu relógio em água salgada. Recomendamos que após o uso na água salgada, lave o relógio em água doce corrente para retirar todo o sal que possa ter ficado no produto.
+Posso nadar com meu relógio?;Com a resistência à água de 5ATM você pode praticar esportes em piscinas ou mar aberto. Não recomendamos que aperte o botão lateral com o relógio submerso. Lembre-se de lavar o relógio em água doce corrente após o uso em piscinas ou mares.
+Posso tomar banho com meu relógio?;O relógio possui resistência de 5ATM (50 metros), com isso, você pode tomar banho com o seu relógio. Não recomendamos que o banho seja em águas muito quentes, o vapor da água pode prejudicar as colas internas do produto e com isso diminuir a resistência no longo prazo.
+Posso lavar as mãos com meu relógio?;Você pode lavar as mãos enquanto usa seu relógio
+O Mormaii Life Ultra possui monitoramento de sono?;Sim, o Mormaii Life Ultra possui a função de monitoramento de sono e para monitorar basta você conectar o relógio com o aplicativo e dormir com o relógio. Após finalizado o sono, basta sincronizar com o aplicativo para puxar os dados.
+Como faço para monitorar meu sono?;Para monitorar seu sono basta dormir com seu Mormaii Life Ultra bem ajustado ao pulso. O relógio irá detectar automaticamente seu ciclo de sono e classificar em sono leve, REM ou sono profundo. O relógio também registrará os momentos em que você acordou durante a noite. Para enviar as informações para o aplicativo basta realizar a sincronização arrastando a tela de cima para baixo na tela inicial do aplicativo. O relógio precisa estar bem ajustado ao pulso para fazer a marcação corretamente.
+Dormi com o relógio mas os dados de sono não foram registrados. O que devo fazer?;Você deve iniciar a sincronização arrastando a tela de cima para baixo na tela inicial do aplicativo e aguardar a finalização. Depois você pode consultar no atalho de ‘Sono’ da Tela Inicial. Caso ainda não mostre no aplicativo, verifique no relógio se os dados foram corretamente computados. Se também não possuir dados no relógio, verifique se dormiu com o relógio conectado corretamente no aplicativo e com o relógio bem ajustado ao pulso. Caso ainda encontre problemas nas noites seguintes, entre em contato conosco.
+Como eu altero minha meta de sono?;Para alterar a sua meta de sono, basta acessar a tela de perfil (Tocando na sua foto da tela inicial do aplicativo) depois toque na opção de “Definir objetivos” e altere para o tempo desejado.
+Meus passos do aplicativo não batem com o relógio, o que fazer?;"Para que os dados da tela inicial do aplicativo, do histórico e do relógio esteja sempre iguais, basta fazer sincronizações periódicas arrastando a tela inicial do aplicativo de cima para baixo. 
+
+Ao finalizar a sincronização, os dados de passos do dia ficarão salvos no aplicativo e serão sincronizados com o servidor no final do dia atual, ou seja, caso durante o dia você desinstalar o aplicativo, desconectar o relógio forçadamente ou fizer o logout, os dados do dia serão perdidos no relógio e também no aplicativo."
+Como salvo meus passos no aplicativo?;"Para salvar os dados de passos no aplicativo basta abrir o aplicativo e arrastar a tela de cima para baixo na tela inicial.
+
+Ao finalizar a sincronização, os dados de passos do dia ficarão salvos no aplicativo e serão sincronizados com o servidor no final do dia atual, ou seja, caso durante o dia você desinstalar o aplicativo, desconectar o relógio forçadamente ou fizer o logout, os dados do dia serão perdidos no relógio e também no aplicativo."
+Passos registrados mesmo sem andar, por guê?;"O sensor do relógio que conta os passos é ativado assim que você movimenta o braço e o relógio entende que você está se movimentando. 
+
+Isso pode acontecer também em transportes, caso o movimento se assemelhe ao movimento de uma caminhada ou corrida. 
+
+O monitoramento de passos é uma estimativa de movimento diário e os dados podem variar de acordo com o ambiente e o movimento gerado pelo pulso."
+Como inicio um monitoramento de batimentos?;"Seus batimentos podem ser capturados de duas formas, a primeira é manualmente no relógio. Você consegue navegar até a tela de batimentos no relógio e aguardar a medição (essa medição não é enviada pro histórico do aplicativo). 
+
+A segunda forma é utilizando o monitoramento automático, com essa função ativada, o seu relógio irá ler seus batimentos 24h por dia e com um intervalo de 5 minutos entre as medições. 
+
+A função de batimento automática poderá ser acessada pela tela de dispositivo com a função de nome ""Batimento automático” ou pela tela de histórico de batimentos tocando no botão de engrenagem localizado no topo da tela ao lado do ícone de central de ajuda.
+
+Mas atenção, com essa função automática ativada, a bateria do relógio será consumida mais rapidamente."
+Por quanto tempo meu batimento é monitorado?;Após o monitoramento automático ser ativado, seus batimentos serão monitorados 24h por dia com um intervalo de 5 minutos entre as medições.
+Como salvo meus batimentos no aplicativo?;"Para salvar os batimentos gerados automaticamente no aplicativo basta abrir o aplicativo e arrastar a tela de cima para baixo. Com isso, o aplicativo fará a sincronização e atualizará todos os dados na tela inicial e também no histórico.
+
+Atenção: Os dados de batimentos ficam salvos no aplicativo e são enviados para o servidor a cada 1h, ou seja, caso você desconecte o relógio forçadamente, desinstale o aplicativo, resete o relógio ou faça logout no aplicativo, seus dados de batimentos da hora corrente poderão ser perdidos, mas não se preocupe pois os dados das horas anteriores já sincronizadas com o aplicativo continuarão salvos na sua conta e não serão perdidos."
+Como inicio um monitoramento de oxigenação?;"Sua oxigenação pode ser capturada de duas formas, a primeira é manualmente no relógio. Você consegue navegar até a tela de Oxigenação no relógio e aguardar a medição. 
+
+A segunda forma é utilizando o monitoramento automático, com essa função ativada, o seu relógio irá ler sua oxigenação 24h por dia e com um intervalo de 5 minutos entre as medições. 
+
+A função de oxigenação automática poderá ser acessada pela tela de dispositivo com a função de nome ""Oxigenação” ou pela tela de histórico de oxigenação tocando no botão de engrenagem localizado no topo da tela ao lado do ícone de central de ajuda.
+
+Mas atenção, com essa função automática ativada, a bateria do relógio será consumida mais rapidamente."
+Como salvar os dados de Oxigenação no aplicativo.;Para salvar as oxigenações medidas no relógio manualmente ou automaticamente no aplicativo, basta  arrastar a tela inicial do relógio de cima para baixo. Com isso, o aplicativo fará a sincronização e atualizará todos os dados na tela inicial e também no histórico.
+Quantos dados de oxigenação são armazenados no relógio?;Você consegue salvar no relógio as medições de oxigenação do dia atual.
+Como eu ativo o monitoramento de estresse automático?;"Para ativar o monitoramento de estresse automático, siga os passos:
+
+1- Na tela inicial do aplicativo, localize o atalho de ""Monitoramento de estresse”
+
+2- Dentro da função, basta localizar a engrenagem localizada no canto superior direito da tela;
+
+3- Ative o monitoramento automático e o lembrete de estresse excessivo, caso queira receber uma notificação do seu nível de estresse no período configurado.
+
+A autonomia de bateria do seu relógio será afetada com esse monitoramento ativado."
+O que é o monitoramento de estresse?;"Com esse monitoramento ativo, o relógio irá medir o seu nível de estresse diário, que será dividido nas seguintes zonas:
+
+Alto: 80 a 99
+
+Médio: 60 a 79
+
+Baixo: 30 a 59
+
+Relaxado: 1 a 29"
+Para que serve o lembrete de estresse?;Você consegue configurar os dias e os períodos que deseja ser notificado. Com essa configuração feita, o relógio te avisará seu nível de estresse naquele momento caso esteja com um estresse maior que 60 naquele momento.
+Como ativo o controle de música?;"Para ativar o controle de música basta abrir o aplicativo e acessar a função de controle de música na tela de ""Dispositivo”. Com a função ativa, basta iniciar uma reprodução pelo seu aplicativo preferido no seu celular e em seguida controlar a musica e o volume do celular pelo relógio."
+Posso controlar as músicas durante um exercício?;Sim, a função de controle de música poderá ser encontrada na tela do exercício quando você arrasta da direita para a esquerda. A tela de controle de música só aparecerá caso você tenha habilitado na tela de dispositivo.
+O controle de câmera não está funcionando, o que fazer?;Para garantir que tudo funcione direitinho, verifique se o relógio está conectado ao app e ao Bluetooth do seu celular. O relógio vai servir como um controle remoto para tirar fotos com a câmera do celular. Então, é só conectar o relógio, abrir a câmera do celular e usar o relógio para tirar a foto quando estiver pronto!
+Como usar a função de controle de câmera?;Conecte o relógio corretamente com o bluetooth do celular e com o aplicativo e em seguida abra a câmera do seu celular e a função de controle de câmera no menu do relógio. Para disparar basta posicionar a câmera do celular corretamente e tocar no botão da tela do relógio.
+Preciso conectar o relógio no bluetooth para usar a função de controle de câmera?;Sim! Você precisa conectar o relógio com o aplicativo e com o bluetooth do celular para utilizar a função de controle de câmera corretamente.
+Como funciona o alerta de sedentarismo?;A função de lembrete foi projetada para incentivá-lo a levantar-se e movimentar-se durante o dia. O relógio enviará um lembrete 10 minutos antes do final de cada hora, dentro do período e intervalo configurados, para lembrá-lo de se movimentar. No entanto, você só será. notificado caso não tenha alcançando sua meta de passos para o dia, calculada com base na sua meta diária dividida pelo tempo de movimento desejado. Por exemplo, se sua meta diária é de 5000 passos e seu objetivo é de 12 horas de movimento, isso significa que você precisa dar 416 passos a cada hora para cumprir seus objetivos diários.
+A meta de passos do alerta de sedentarismo tem a ver com a minha meta diária?;A sua meta diária de passos, que é configurada no seu perfil ou no momento da conexão com o relógio, serve como ponto de partida para calcular quantos passos você deve dar por hora com base no objetivo de tempo em movimento configurado. 
+Posso enviar quantos mostradores para o relógio?;"Você consegue gerir a quantidade de mostradores do relógio pelo aplicativo. O relógio possui 2 mostradores fixos e você consegue enviar e excluir mostradores com base no espaço disponível no relógio. Caso você atinja o espaço disponível no relógio, basta excluir um mostradores no card de ""Mostradores do relógio” para enviar um novo."
+Quero excluir um mostrador fixo, eu posso?;O relógio possui 5 mostradores de fábrica sendo 2 deles fixos que não podem ser excluídos.
+Por que demora muito para sincronizar um mostrador?;"O Mostrador é baixado do nosso servidor para o seu celular e logo em seguida é enviado para o relógio. 
+
+Essa ação de baixar o mostrador para o celular pode ser influenciada pela qualidade da internet que está utilizando. Já o envio pode demorar mais de acordo com a tecnologia bluetooth, tamanho de arquivo e possíveis interferências de sinal."
+Os mostradores demoram carregar no aplicativo, por quê?;Sempre que você abre o aplicativo, os mostradores são buscados no nosso servidor e mostrado no aplicativo. A demora, pode ser causada pela qualidade da internet que esteja utilizando.
+Como deletar um mostrador do relógio?;O relógio tem um espaço limitado para mostradores da galeria e customizado, com isso, caso você atinja o espaço disponível, você precisará excluir um mostrador do relógio para enviar um novo. Para isso, vá até o card de “mostradores do relógio” e em seguida toque na opção “Excluir mostrador do relógio” e pronto, agora você pode enviar um novo mostrador.
+Quantos mostradores customizados posso ter no relógio;Você consegue ter 1 mostrador customizado no relógio por vez. Cada vez que você envia um novo mostrador pelo aplicativo, o mostrador anterior é substituído. Pelo aplicativo você consegue salvar até 3 fotos com configurações diferentes para enviar para o relógio sempre que quiser.
+Quais configurações posso fazer em um mostrador customizado?;Para o mostrador customizado, você consegue alterar a foto com uma foto da sua galeria ou tirar uma foto na hora, alterar a posição da data e hora para os 4 cantos da tela e trocar a cor do relógio conforme desejar, existem diversas opções de cores disponíveis. Todas essas configurações são salvas quando você envia para o relógio e pose alterar ou excluir o mostrador sempre que quiser.
+Não consigo enviar um mostrador pro relógio, o que fazer?;"Para isso, você precisa identificar a mensagem de erro que mostra na tela do aplicativo, veja alguns erros e possíveis soluções:
+
+1- Caso a mensagem seja falta de espaço no relógio, você precisa excluir um mostrador do card “Mostradores do relógio” para conseguir enviar um mostrador customizado. Após excluir, tente enviar o mostrador novamente;
+
+2- Bateria do relógio fraca - caso o relógio esteja com a bateria fraca, o envio do mostrador para o relógio pode falhar, então, carregue o relógio e tente novamente;
+
+3- Internet instável - Como salvamos suas fotos no servidor para que você consiga acessá-las depois, caso sua internet esteja instável pode falhar o processo de envio do relógio. O mesmo pode acontecer caso exista interferência de sinal do sinal bluetooth;
+
+4- Erro no servidor - Nosso servidor pode estar passando por manutenções ou instabilidades, nesse caso, aguarde um momento e tente novamente, caso o problema persista, entre em contato conosco."
+Não consigo tirar uma foto para colocar no mostrador, o que fazer?;Para garantir que tudo funcione bem, confira se você deu permissão para usar a câmera. É fácil! Vá até as configurações do seu celular, encontre o Mormaii smartwatches e toque em permissões. Verifique se a opção de câmera está ativada. Se não estiver, é só permitir. Depois disso, feche e abra o aplicativo e tente tirar uma foto novamente.
+Não consigo acessar meu álbum de fotos para selecionar uma foto para o mostrador, o que fazer?;Para garantir que tudo funcione bem, confira se você deu permissão para o aplicativo acessar seu álbum de fotos. É fácil! Vá até as configurações do seu celular, encontre o Mormaii smartwatches e toque em permissões. Verifique se a opção de álbum de fotos ou arquivos está ativada. Se não estiver, é só permitir. Depois disso, feche e abra o aplicativo e tente acessar o álbum para selecionar uma foto.
+Informações técnicas do Life Ultra;"Medidas da caixa: 47.02mm 38.54mm 11.60mm
+
+Tamanho da tela: 1.91”
+
+Resolução da tela: 320px x 385px
+
+Tecnologia do display: TFT-IPS
+
+Material da pulseira: Silicone
+
+Tamanho da bateria: 300mAh
+
+Duração da bateria: Até 10 dias dependendo do uso
+
+Tipo da bateria: Polímero de lítio
+
+Tempo de carregamento: até 2h30
+
+Processador: ATS3085L
+
+Sensor de batimentos: VC9202
+
+Material da caixa: Polímero 
+
+Geração do bluetooth: 5.3
+
+Resistência a água: 5ATM
+
+Número Anatel: 00305-24-10771"
+Consigo encontrar o relógio pelo aplicativo?;"Você pode visualizar no mapa a posição atual do relógio caso esteja conectado, ou pode ver a última localização caso ele tenha se desconectado do aplicativo. Na tela, serão exibidas informações como a data e hora da desconexão, juntamente com o endereço aproximado do local onde ocorreu a desconexão.
+
+Obs.: A localização pode variar conforme o sinal GPS do celular e possíveis interferências de sinal no momento da desconexão."
+Caso eu seja roubado, consigo acompanhar a localização do relógio em tempo real?;Caso você seja roubado ou furtado você só vai conseguir visualizar o local onde aconteceu o ocorrido. como o relógio não possui sinal de operadora e nem GPS em tempo real, não é possível acompanhar a localização exata do dispositivo quando ele não está conectado com o aplicativo.
+Como funciona a função de encontrar relógio?;"O aplicativo irá registrar a localização atual do dispositivo quando estiver conectado e armazenará a última localização onde foi avistado caso o relógio esteja desconectado. No caso de possuir mais de um relógio, o aplicativo irá armazenar todas as unidades e a última localização onde cada uma foi desconectada.
+
+É importante lembrar que, mesmo que você esteja com o relógio, se ele não estiver conectado ao aplicativo, este só exibirá a localização em tempo real do relógio que estiver conectado naquele momento."
+"O que significa o ""Visto por ultimo” da tela de encontrar relógio?";"O visto por último mostra a data e hora em que o relógio perdeu a conexão com o aplicativo, além de mostrar no mapa a posição em que o relógio foi visto pela última vez e o endereço abaixo.
+
+Caso o relógio esteja conectado, o visto por último mostrará que o relógio está conectado."
+Como prolongar o tempo de bateria do relógio;"O relógio foi testado para durar até 10 dias de uso com uma carga. Esse teste foi seguindo os cenários abaixo:
+
+**Uso regular diário / 10 dias**
+
+Monitoramento de batimentos 24h por dia ativado;
+
+Receber até 5 ligações por dia com o relógio vibrando por até 45 segundos em cada ligação;
+
+2 alarmes por dia com o relógio vibrando até 45 segundos em cada alarme;
+
+3 sincronizações de dados por dia com o aplicativo;
+
+Levantar o pulso para ligar a tela 50 vezes por dia com até 10 segundos de tela ligada por vez;
+
+Até 50 notificações de redes sociais por dia.
+
+**Uso médio / 6 dias**
+
+Monitoramento de batimentos 24h por dia ativado;
+
+Receber até 10 ligações por dia com o relógio vibrando por até 45 segundos em cada ligação;
+
+2 alarmes por dia com o relógio vibrando até 45 segundos em cada alarme;
+
+3 sincronizações de dados por dia com o aplicativo;
+
+Levantar o pulso para ligar a tela 140 vezes por dia com até 10 segundos de tela ligada por vez;
+
+Iniciar um exercício de até 15 min por dia;
+
+Até 50 notificações de redes sociais por dia.
+
+Cada usuário possui um tipo de uso e utiliza funções diferentes, então, o tempo de uso total com uma carga pode variar de acordo com as funções utilidades e frequência de utilização. As funções que mais consomem bateria são: Exercícios, monitoramentos automáticos (batimentos, estresse, oxigenação e sono), Tempo de tela ligada, notificações de mensagens, brilho da tela e lembretes do relógio. Por padrão, todos os monitoramentos e recursos do relógio vem ligados, por isso, caso não utilize alguma função e queira desligar, basta acessar a tela de “Dispositivo” e configurar de acordo com o seu uso."
+Diferença de tempo de exercício, por que isso acontece?;As atividades que utilizam o mapa podem apresentar até 5 segundos de diferença entre o app Mormaii e Strava no registro de tempo total do exercício. Isso se dá pois o aplicativo Strava, utiliza os dados de geolocalização para fazer o seu próprio cálculo do tempo total do exercício e não considera os dados de tempo do nosso aplicativo. Esta pequena diferença é normal e não irá afetar os demais dados do exercício, como calorias, distancia e quilometragem.
+Quais modalidades o meu relógio consegue monitorar?;"Você pode monitorar diretamente pelo seu relógio 100 exercícios podendo escolher até 12 para estar no relógio como acesso rápido, os exercícios disponíveis são:
+
+- Corrida (GPS)
+- Corrida esteira
+- Caminhada (GPS)
+- Caminhada esteira
+- Trilha (GPS)
+- Bike (GPS)
+- Spinning
+- Tecido acrobático
+- Natação na piscina
+- Natação no mar
+- Yoga
+- Pilates
+- Dança
+- Remo
+- Elíptico
+- Cross Training
+- SUP
+- HIIT
+- Core
+- Alongamento
+- Academia
+- Aeróbico
+- Slackline
+- Abdominal
+- Capoeira
+- Jazz
+- Barra
+- Krav Magá
+- Agachamentos
+- Luta livre
+- Treino funcional
+- Zumba
+- Boxe
+- Artes marciais
+- Tai Chi
+- Taekwondo
+- Karatê
+- Judô
+- Esgrima
+- Arco e flecha
+- Ginástica
+- Levantamento de peso
+- Barras paralelas
+- Vôlei
+- Arremesso de peso
+- Boliche
+- Tênis
+- Tênis de mesa
+- Golfe
+- Futebol
+- Basquete
+- Beach tênis
+- Frescobol
+- Hóquei
+- Futebol americano
+- Squash
+- Softball
+- Handball
+- Altinha
+- Beisebol
+- Futsal
+- Nado sincronizado
+- Muai Thay
+- Sapateado
+- Break dance
+- Balé
+- Atletismo
+- Escalada
+- Pular corda
+- Peteca
+- Dardos
+- Hipismo
+- Simulador de escada
+- Bocha
+- Pesca
+- Foil Surfing
+- Jiu Jitsu
+- Patinação
+- Snowboard
+- Esqui
+- Marcha atlética
+- Funcional na praia
+- Corrida com obstáculos
+- Outros (GPS)
+- Pole dance
+- Surfe
+- Vela
+- Windsurf
+- Caiaque
+- Wakeboard
+- Vôlei de praia
+- Motocross
+- Kickboxe
+- Kung Fu
+- Montanhismo
+- Skate
+- Rapel
+- Futvôlei
+- Parkour
+- Mountain bike"
+Como realizo o monitoramento de um exercício?;"Para realizar o monitoramento de um exercício, com seu relógio conectado corretamente ao aplicativo, acesse a aba “Exercícios” do aplicativo e selecione a modalidade desejada. Em seguida defina uma meta ou toque no botão de “Iniciar sem definir meta”.
+Ao encerrar o exercício, você deve sincronizar os dados do relógio com o aplicativo. 
+
+Você também pode iniciar o exercício diretamente pelo seu relógio e faze-lo sem estar conectado com o celular durante o exercício. Ao finalizar o exercício pelo relógio, abra o aplicativo e faça a sincronização para ver todos os dados dele no histórico.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+O relógio tem GPS integrado?;Sim! com o GPS integrado, você consegue iniciar a atividade pelo relógio e dispensa o uso do celular durante o exercício. As atividades que possuem o selo “GPS” você consegue capturar o percurso e a distância com a precisão do sistema de GPS e com suporte a 5 satélites.
+Como defino as metas para meus exercícios?;"Ao iniciar um monitoramento de exercício pelo aplicativo ou pelo relógio, é possível definir uma meta.
+As metas podem ser de distância (ex: correr 5km), de tempo (ex: correr por 30min) ou de caloria (ex: correr até queimar 500kcal). Só é possível escolher uma meta por exercício. Para exercícios que não possuem distância, você só poderá escolher entre a meta de calorias ou de tempo.
+Quando a meta for alcançada, você receberá uma notificação em seu celular ou no relógio lhe avisando.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Posso fazer um exercício sem levar o celular comigo?;"Sim, você pode iniciar qualquer exercício diretamente pelo relógio sem precisar estar conectado ou carregar o celular durante a atividade. Ao finalizar o exercício, basta abrir o aplicativo e sincronizar para salvar o registro no seu histórico.
+
+Para iniciar um exercício que não esteja no relógio, acesse a tela de exercícios, toque na engrenagem no canto superior direito ou vá até a tela dispositivo e selecione ""Exercício no relógio"". Você pode escolher até 12 opções de exercício para acesso rápido no relógio."
+Como salvar um exercício no aplicativo?;"Sempre que quiser que um exercício seja enviado para o aplicativo, você precisa fazer a sincronização de dados.
+
+Para isso é simples: o aplicativo faz sincronizações automáticas frequentes e, além disso, você consegue fazer a sincronização manual arrastando a tela inicial de cima para baixo."
+Como atualizar o GPS?;Caso o relógio solicite a atualização do GPS, você pode fazer a sincronização na tela inicial do aplicativo ou fazer a atualização manual tocando no botão “Atualizar GPS” no menu dispositivo.
+Meu relógio é à prova d’água?;O Mormaii Life Ultra GPS possui resistência à água de 5 ATM, o que permite seu uso diário com submersão em água de até 50 metros e banhos de chuveiro com água fria. Não recomendamos apertar o botão lateral enquanto o relógio estiver submerso.
+Posso entrar no mar com meu relógio?;Você pode utilizar o seu Mormaii Life Ultra GPS em água salgada. No entanto, após o uso, recomendamos lavar o relógio em água doce corrente para remover todo o sal residual do produto.
+Posso nadar com meu relógio?;Com a resistência à água de 5 ATM, você pode praticar esportes em piscinas ou mar aberto. Entretanto, não recomendamos apertar o botão lateral enquanto o relógio estiver submerso. Após o uso em piscinas ou mares, lembre-se de lavar o relógio em água doce corrente.
+Posso tomar banho com meu relógio?;O Mormaii Life Ultra GPS possui resistência de 5 ATM (50 metros), permitindo que você tome banho com o relógio. No entanto, não recomendamos banhos com água muito quente, pois o vapor pode danificar as colas internas do produto e reduzir sua resistência à água ao longo do tempo.
+Posso lavar as mãos com meu relógio?;Sim, você pode lavar as mãos enquanto usa seu Mormaii Life Ultra GPS.
+O Mormaii Life Ultra GPS possui monitoramento de sono?;Sim, o Mormaii Life Ultra GPS possui monitoramento de sono. Para utilizar essa função, basta conectar o relógio ao aplicativo e dormir com ele bem ajustado ao pulso. Depois de acordar, sincronize o relógio com o aplicativo para visualizar os dados do seu sono.
+Como faço para monitorar meu sono?;Para monitorar seu sono, basta dormir com seu Mormaii Life Ultra GPS bem ajustado ao pulso. O relógio detectará automaticamente seu ciclo de sono, classificando-o em sono leve, REM ou sono profundo. Ele também registrará os momentos em que você acordou durante a noite. Para enviar as informações ao aplicativo, realize a sincronização arrastando a tela inicial de cima para baixo. Lembre-se: o relógio precisa estar bem ajustado ao pulso para fazer a marcação correta.
+Dormi com o relógio mas os dados de sono não foram registrados. O que devo fazer?;"Para sincronizar os dados de sono, arraste a tela de cima para baixo na tela inicial do aplicativo e aguarde a conclusão. Depois, acesse o atalho **""**Sono**""** na Tela Inicial para conferir as informações.
+
+Se os dados não aparecerem no aplicativo, siga estas etapas:
+
+1. Verifique no relógio se os dados foram registrados corretamente.
+2. Caso os dados também não estejam no relógio, certifique-se de que dormiu com o dispositivo devidamente conectado ao aplicativo e ajustado corretamente ao pulso."
+Como eu altero minha meta de sono?;Para alterar a sua meta de sono, basta acessar a tela de perfil (Tocando na sua foto da tela inicial do aplicativo) depois toque na opção de “Definir objetivos” e altere para o tempo desejado.
+Meus passos do aplicativo não batem com o relógio, o que fazer?;"Para garantir que os dados de passos no aplicativo, no histórico e no relógio sejam sempre os mesmos, faça sincronizações periódicas arrastando a tela inicial do aplicativo de cima para baixo.
+
+Após a sincronização, os passos do dia serão salvos no aplicativo e enviados ao servidor no final do dia. Porém, se você desinstalar o aplicativo, desconectar o relógio forçadamente ou fizer logout antes desse processo, os dados do dia poderão ser perdidos tanto no relógio quanto no aplicativo."
+Como salvo meus passos no aplicativo?;"Para salvar os dados de passos, abra o aplicativo e deslize a tela de cima para baixo na tela inicial. Isso iniciará a sincronização dos dados.
+
+Importante:
+
+Após a sincronização, os dados de passos do dia serão salvos no aplicativo e automaticamente sincronizados com o servidor ao final do dia. No entanto, se durante o dia você:
+
+- Desinstalar o aplicativo,
+- Desconectar o relógio manualmente, ou
+- Fazer logout,
+
+os dados coletados até o momento serão perdidos tanto no relógio quanto no aplicativo."
+Passos registrados mesmo sem andar, por guê?;"O sensor do relógio é ativado automaticamente quando você movimenta o braço, identificando que você está em movimento.
+
+**Observação importante:**
+
+Em algumas situações, como durante viagens em transportes (ônibus, carro, trem, etc.), o relógio pode registrar passos caso o movimento do seu braço seja semelhante ao de uma caminhada ou corrida.
+
+Lembre-se de que o monitoramento de passos é uma estimativa baseada no movimento diário. Por isso, os dados podem variar dependendo do ambiente e da intensidade dos movimentos do seu pulso."
+Como inicio um monitoramento de batimentos?;"Seus batimentos cardíacos podem ser medidos de duas formas:
+
+1. Medição manual:
+    
+    No relógio, navegue até a tela de batimentos cardíacos e aguarde a medição.
+    
+    *Observação:* Essa medição manual não é enviada para o histórico do aplicativo.
+    
+2. Monitoramento automático:
+    
+    Com essa função ativada, o relógio mede seus batimentos cardíacos 24 horas por dia, com intervalos de 5 minutos entre as medições.
+    
+    Como ativar o monitoramento automático:
+    
+    - Acesse a tela do dispositivo e procure pela função ""Batimento automático"".
+    - Ou, na tela de histórico de batimentos, toque no ícone de engrenagem localizado no canto superior, ao lado do ícone de central de ajuda.
+    
+    **Atenção:**
+    
+    O monitoramento automático consome mais bateria, reduzindo a autonomia do relógio."
+Por quanto tempo meu batimento é monitorado?;Após o monitoramento automático ser ativado, seus batimentos serão monitorados 24h por dia com um intervalo de 5 minutos entre as medições.
+Como salvo meus batimentos no aplicativo?;"Para salvar os batimentos cardíacos capturados automaticamente, abra o aplicativo e deslize a tela de cima para baixo. Isso iniciará a sincronização, atualizando os dados na tela inicial e no histórico.
+
+Atenção:
+
+Os dados de batimentos são salvos no aplicativo e enviados ao servidor a cada 1 hora. Portanto, se você:
+
+- Desconectar o relógio manualmente,
+- Desinstalar o aplicativo,
+- Resetar o relógio, ou
+- Fazer logout no aplicativo,
+
+os dados da hora corrente (não sincronizados) poderão ser perdidos. No entanto, os dados das horas anteriores, já sincronizados com o aplicativo, permanecerão salvos em sua conta e não serão afetados."
+Como eu ativo o monitoramento de estresse automático?;"Para ativar o monitoramento de estresse automático, siga os passos:
+
+1- Na tela inicial do aplicativo, localize o atalho de ""Monitoramento de estresse”
+
+2- Dentro da função, basta localizar a engrenagem localizada no canto superior direito da tela;
+
+3- Ative o monitoramento automático e o lembrete de estresse excessivo, caso queira receber uma notificação do seu nível de estresse no período configurado.
+
+A autonomia de bateria do seu relógio será afetada com esse monitoramento ativado."
+O que é o monitoramento de estresse?;"Com esse monitoramento ativo, o relógio irá medir o seu nível de estresse diário, que será dividido nas seguintes zonas:
+
+Alto: 80 a 99
+
+Médio: 60 a 79
+
+Baixo: 30 a 59
+
+Relaxado: 1 a 29"
+Para que serve o lembrete de estresse?;Você pode personalizar os dias e os horários em que deseja receber notificações sobre seu nível de estresse. Após configurar, o relógio irá alertá-lo sempre que detectar um nível de estresse acima de 60 no momento.
+Como sincronizo o clima no relógio?;Assim que você conecta o relógio com o aplicativo, todas as informações de clima são automaticamente atualizadas no relógio.
+O clima do relógio está diferente do celular, por quê?;"Utilizamos o serviço de clima da accuweather, ou seja, todas as informações relacionadas a clima, são puxadas desse serviço.
+
+Caso o serviço que o aplicativo do seu celular utilize seja outro, possivelmente as informações serão ligeiramente diferentes.
+
+Lembre-se que para manter os dados de clima sempre atualizados, você precisa entrar no aplicativo durante o dia e aguardar a sincronização ser finalizada."
+O clima sincroniza automaticamente no relógio todos os dias?;A informação de clima é atualizada automaticamente assim que você entra no aplicativo. Caso você não entre no aplicativo, essa informação ficará desatualizada.
+Preciso de internet para sincronizar o clima?;Sim! Como utilizamos um serviço de clima para captar essas informações, você precisa que seu celular esteja conectado a internet para que as informações sejam enviadas para o relógio quando você fizer a sincronização.
+Como ativo o controle de música?;"Para ativar o controle de música basta abrir o aplicativo e acessar a função de controle de música na tela de ""Dispositivo”. Com a função ativa, basta iniciar uma reprodução pelo seu aplicativo preferido no seu celular e em seguida controlar a musica e o volume do celular pelo relógio.
+
+Você também consegue ouvir a música do seu relógio pela caixa de som do relógio, para isso, basta acessar a função de música pelo relógio e tocar no ícone de celular e trocar a opção para “Ouvir no relógio”"
+Posso controlar as músicas durante um exercício?;Sim, a função de controle de música poderá ser encontrada na tela do exercício quando você arrasta da direita para a esquerda. A tela de controle de música só aparecerá caso você tenha habilitado na tela de dispositivo.
+O controle de câmera não está funcionando, o que fazer?;Para garantir que tudo funcione direitinho, verifique se o relógio está conectado ao app e ao Bluetooth do seu celular. O relógio vai servir como um controle remoto para tirar fotos com a câmera do celular. Então, é só conectar o relógio, abrir a câmera do celular e usar o relógio para tirar a foto quando estiver pronto!
+Como usar a função de controle de câmera?;Conecte o relógio corretamente com o bluetooth do celular e com o aplicativo e em seguida abra a câmera do seu celular e a função de controle de câmera no menu do relógio. Para disparar basta posicionar a câmera do celular corretamente e tocar no botão da tela do relógio.
+Preciso conectar o relógio no bluetooth para usar a função de controle de câmera?;Sim! Você precisa conectar o relógio com o aplicativo e com o Bluetooth do celular para utilizar a função de controle de câmera corretamente.
+Como funciona o alerta de sedentarismo?;"A função de lembrete foi criada para incentivá-lo a se levantar e se movimentar ao longo do dia. O relógio enviará um alerta 10 minutos antes do final de cada hora, dentro do período e intervalo configurados, para lembrá-lo de se movimentar.
+
+Quando você recebe o lembrete?
+
+Você só será notificado se não tiver atingido sua meta de passos para o dia e para a hora específica. Essa meta é calculada com base na sua meta diária dividida pelo tempo de movimento desejado.
+
+Exemplo:
+
+Se sua meta diária é de 5.000 passos e você deseja se movimentar por 12 horas, isso significa que você precisa dar aproximadamente 416 passos por hora para alcançar seu objetivo diário."
+A meta de passos do alerta de sedentarismo tem a ver com a minha meta diária?;Sua meta diária de passos, definida no seu perfil ou durante a conexão com o relógio, é usada como base para calcular quantos passos você deve dar por hora. Esse cálculo leva em consideração o tempo de movimento que você configurou como objetivo.
+Posso enviar quantos mostradores para o relógio?;"Você consegue gerir a quantidade de mostradores do relógio pelo aplicativo. O relógio possui 2 mostradores fixos e você consegue enviar e excluir mostradores com base no espaço disponível no relógio. Caso você atinja o espaço disponível no relógio, basta excluir um mostrador no card de ""Mostradores do relógio” para enviar um novo."
+Quero excluir um mostrador fixo, eu posso?;O relógio possui 5 mostradores de fábrica sendo 2 deles fixos que não podem ser excluídos.
+Por que demora para sincronizar um mostrador?;"O Mostrador é baixado do nosso servidor para o seu celular e logo em seguida é enviado para o relógio. 
+
+Essa ação de baixar o mostrador para o celular pode ser influenciada pela qualidade da internet que está utilizando. Já o envio pode demorar mais de acordo com a tecnologia bluetooth, tamanho de arquivo e possíveis interferências de sinal."
+Os mostradores demoram carregar no aplicativo, por quê?;Sempre que você abre o aplicativo, os mostradores são buscados no nosso servidor e mostrado no aplicativo. A demora, pode ser causada pela qualidade da internet que esteja utilizando.
+Como deletar um mostrador do relógio?;O relógio tem um espaço limitado para mostradores da galeria e customizado, com isso, caso você atinja o espaço disponível, você precisará excluir um mostrador do relógio para enviar um novo. Para isso, vá até o card de “mostradores do relógio” e em seguida toque na opção “Excluir mostrador do relógio” e pronto, agora você pode enviar um novo mostrador.
+Quantos mostradores customizados posso ter no relógio;Você consegue ter 1 mostrador customizado no relógio por vez. Cada vez que você envia um novo mostrador pelo aplicativo, o mostrador anterior é substituído. Pelo aplicativo você consegue salvar até 3 fotos com configurações diferentes para enviar para o relógio sempre que quiser.
+Quais configurações posso fazer em um mostrador customizado?;Para o mostrador customizado, você consegue alterar a foto com uma foto da sua galeria ou tirar uma foto na hora, alterar a posição da data e hora para os 4 cantos da tela e trocar a cor do relógio conforme desejar, existem diversas opções de cores disponíveis. Todas essas configurações são salvas quando você envia para o relógio e pode alterar ou excluir o mostrador sempre que quiser.
+Não consigo enviar um mostrador pro relógio, o que fazer?;"Para isso, você precisa identificar a mensagem de erro que mostra na tela do aplicativo, veja alguns erros e possíveis soluções:
+
+1- Caso a mensagem seja falta de espaço no relógio, você precisa excluir um mostrador do card “Mostradores do relógio” para conseguir enviar um mostrador customizado. Após excluir, tente enviar o mostrador novamente;
+
+2- Bateria do relógio fraca - caso o relógio esteja com a bateria fraca, o envio do mostrador para o relógio pode falhar, então, carregue o relógio e tente novamente;
+
+3- Internet instável - Como salvamos suas fotos no servidor para que você consiga acessá-las depois, caso sua internet esteja instável pode falhar o processo de envio do relógio. O mesmo pode acontecer caso exista interferência de sinal do sinal bluetooth;
+
+4- Erro no servidor - Nosso servidor pode estar passando por manutenções ou instabilidades, nesse caso, aguarde um momento e tente novamente, caso o problema persista, entre em contato conosco."
+Não consigo tirar uma foto para colocar no mostrador, o que fazer?;Para garantir que tudo funcione bem, confira se você deu permissão para usar a câmera. É fácil! Vá até as configurações do seu celular, encontre o Mormaii smartwatches e toque em permissões. Verifique se a opção de câmera está ativada. Se não estiver, é só permitir. Depois disso, feche e abra o aplicativo e tente tirar uma foto novamente.
+Não consigo acessar meu álbum de fotos para selecionar uma foto para o mostrador, o que fazer?;Para garantir que tudo funcione bem, confira se você deu permissão para o aplicativo acessar seu álbum de fotos. É fácil! Vá até as configurações do seu celular, encontre o Mormaii smartwatches e toque em permissões. Verifique se a opção de álbum de fotos ou arquivos está ativada. Se não estiver, é só permitir. Depois disso, feche e abra o aplicativo e tente acessar o álbum para selecionar uma foto.
+O que é o histórico de atividades?;"O histórico de atividades é um compilado de 3 informações sobre as atividades do seu dia, as calorias ativas, Tempo de exercício e tempo em movimento. 
+
+Essas informações são importantes para você acompanhar sua evolução diária e semanal sobre suas atividades."
+O histórico de atividades é composto por quais informações?;Esse histórico é composto pelas calorias ativas, tempo de exercício e tempo em movimento
+O que significa cada informação do histórico de atividades?;"Calorias ativas: Representam a quantidade de calorias gastas durante atividades físicas específicas ou exercícios. Incluem a energia utilizada para realizar atividades como caminhadas, corridas, exercícios de academia, esportes, ou qualquer outra forma de movimento físico planejado. Essas calorias são consideradas ""ativas"" porque são resultantes de ações voluntárias e intencionais que demandam esforço físico.
+
+Tempo de exercício: O tempo em exercício é o período em que você se dedica praticando exercícios com o seu relógio ou pelo aplicativo ou praticando alguma atividade ou caminhada sem necessariamente iniciar um exercício pelo relógio ou aplicativo.
+
+Tempo em movimento: O tempo em movimento mostra quantas horas no dia você se movimentou e atingiu seu objetivo de passos. Você consegue verificar no gráfico duas cores diferentes para as horas que você atingiu seu objetivo e as horas que você caminhou porém não conseguiu atingir seu objetivo."
+O Tempo de exercício tem a ver com os exercícios feitos no aplicativo ou relógio?;Sim! Nesse tempo, serão somados o tempo que você ficou em atividade durante o seu dia ou até mesmo o tempo que fez algum esforço durando o seu dia sem iniciar um exercício pelo app ou relógio.
+Como editar os objetivos do histórico de atividades?;"Para editar os seus objetivos você pode acessar dois caminhos:
+
+1- Na tela de histórico de atividades, toque no botão de engrenagem ao lado do ícone de central de ajuda no canto superior direito da tela.
+
+2- Acesse a opção “Editar objetivos” na tela de perfil. Basta tocar na sua foto na tela inicial do aplicativo."
+Esse histórico tem relação com o alerta de sedentarismo?;"Certamente, a informação crucial aqui é o ""Tempo em Movimento"". Esta métrica está diretamente relacionada à quantidade total de passos que você deseja alcançar diariamente. Em termos práticos, o aplicativo realiza o cálculo ao dividir o número total de passos pelo tempo total em movimento estipulado para atingir sua meta. Dessa maneira, o aplicativo determina a média de passos por hora necessária para alcançar seu objetivo diário.
+
+Caso a função de alerta de sedentarismo esteja habilitada, o relógio desempenha um papel proativo, notificando você 10 minutos antes do término de cada hora. Essa notificação serve como um lembrete oportuno para incentivar movimentos e assegurar que você permaneça no caminho certo para alcançar sua meta diária de passos. Essa abordagem estratégica ajuda a manter um estilo de vida mais ativo e saudável, integrando a conscientização sobre a importância de se movimentar ao longo do dia."
+Informações técnicas do relógio;"Medidas da caixa: 44mm 39mm 11.60mm
+
+Tamanho da tela: 1.85”
+
+Resolução da tela: 320px x 385px
+
+Tecnologia do display: TFT-IPS
+
+Material da pulseira: Silicone
+
+Tamanho da bateria: 300mAh
+
+Duração da bateria: Até 7 dias dependendo do uso
+
+Tipo da bateria: Polímero de lítio
+
+Tempo de carregamento: até 2h30
+
+Processador: SF32LB523
+
+Sensor de batimentos: HX3918
+
+Material da caixa: Polímero 
+
+Geração do bluetooth: 5.3
+
+Resistência a água: 5ATM
+
+Número Anatel: 08603-24-10771"
+Como prolongar o tempo de bateria do relógio;"O relógio foi testado para durar até 7 dias de uso com uma carga. Esse teste foi seguindo os cenários abaixo:
+
+Uso regular diário / 7 dias
+
+Monitoramento de batimentos 24h por dia ativado;
+
+Receber até 5 ligações por dia com o relógio vibrando por até 45 segundos em cada ligação;
+
+2 alarmes por dia com o relógio vibrando até 45 segundos em cada alarme;
+
+3 sincronizações de dados por dia com o aplicativo;
+
+Levantar o pulso para ligar a tela 50 vezes por dia com até 10 segundos de tela ligada por vez;
+
+Até 50 notificações de redes sociais por dia.
+
+Uso médio / 5 dias
+
+Monitoramento de batimentos 24h por dia ativado;
+
+Receber até 10 ligações por dia com o relógio vibrando por até 45 segundos em cada ligação;
+
+2 alarmes por dia com o relógio vibrando até 45 segundos em cada alarme;
+
+3 sincronizações de dados por dia com o aplicativo;
+
+Levantar o pulso para ligar a tela 140 vezes por dia com até 10 segundos de tela ligada por vez;
+
+Iniciar um exercício de até 15 min por dia;
+
+Até 50 notificações de redes sociais por dia.
+
+Cada usuário possui um tipo de uso e utiliza funções diferentes, então, o tempo de uso total com uma carga pode variar de acordo com as funções utilidades e frequência de utilização. As funções que mais consomem bateria são: Exercícios, monitoramentos automáticos (batimentos, estresse, oxigenação e sono), Tempo de tela ligada, notificações de mensagens, brilho da tela e lembretes do relógio. Por padrão, todos os monitoramentos e recursos do relógio vem ligados, por isso, caso não utilize alguma função e queira desligar, basta acessar a tela de “Dispositivo” e configurar de acordo com o seu uso."
+O que são os treinos de corrida?;Os Treinos de Corrida são programas de treinamento pré-definidos disponíveis no seu relógio, projetados especialmente para quem está começando a correr. Eles oferecem uma estrutura prática e eficiente para ajudar iniciantes a evoluir de forma gradual e segura.
+Quantos treinos tem no relógio?;O relógio possui 6 treinos prontos que variam entre 6 e 29 minutos.
+Como acesso os Treinos de Corrida?;Você pode acessar os treinos diretamente pelo seu relógio, de forma simples e rápida. Após concluir cada treino, os dados são automaticamente salvos no aplicativo, onde você pode acompanhar seu progresso e evolução.
+Como funcionam esses treinos?;Os treinos são divididos em dois níveis de dificuldade: iniciante e intermediário. Cada treino varia entre 6 e 29 minutos, alternando entre caminhada rápida e trote, permitindo que você melhore sua resistência e condicionamento físico de maneira progressiva.
+O que são os planos de corrida?;Os planos de corrida são programas de treinamento estruturados para ajudá-lo a atingir objetivos específicos, como correr 3 km, 5 km ou 10 km sem parar. Eles são divididos em níveis de dificuldade (iniciante, intermediário e avançado) e incluem treinos personalizados que variam entre caminhada rápida e trote, com base no seu condicionamento físico e metas.
+Quantos planos de corrida estão disponíveis?;"Existem três planos de corrida disponíveis:
+
+- **Plano de 3 km**: Concluído em 3 semanas.
+- **Plano de 5 km**: Concluído em 5 semanas.
+- **Plano de 10 km**: Concluído em 7 semanas.
+
+Todos os planos envolvem treinos três vezes por semana, com dias definidos de acordo com sua configuração."
+Posso começar mais de um plano de corrida ao mesmo tempo?;Não. O aplicativo permite que você inicie apenas um plano de corrida por vez. Para começar um novo plano, é necessário finalizar o anterior. Isso garante que você foque em um objetivo de cada vez e tenha uma evolução consistente.
+Como configuro um plano de corrida no relógio?;"1. Acesse a seção de ”Treine com a Mormaii” no menu de “Exercícios” no aplicativo.
+2. Escolha o plano desejado (3 km, 5 km ou 10 km).
+3. Escolha entre as 3 combinações de dias que mais se adeque com sua rotina.
+4. Confirme e aguarde a sincronização com o relógio.
+5. Pronto! O plano estará disponível no relógio, e você poderá iniciar os treinos diretamente por ele."
+Posso iniciar um plano de corrida pelo aplicativo?;Sim! Você pode iniciar um plano de corrida tanto pelo aplicativo quanto pelo relógio. Após a configuração, o plano ficará disponível em ambos, permitindo que você escolha a opção mais conveniente para começar os treinos.
+Como funcionam os treinos durante o plano?;Cada treino é dividido em etapas que alternam entre caminhada rápida e trote, com base no seu objetivo de distância. O relógio também monitora seu intervalo de batimentos cardíacos, oferecendo orientações para manter o ritmo ideal durante cada fase do treino.
+Posso mudar os dias de treino após iniciar um plano?;Não é possível alterar os dias de treino após iniciar um plano. No entanto, se você perder um dia de treino, pode voltar e realizar o treino perdido em outro momento. Caso precise ajustar sua rotina de treinos, você terá que finalizar o plano atual e configurar um novo com os dias que melhor se adaptam à sua agenda.
+Os planos de corrida são adequados para iniciantes?;Sim! Os planos são projetados para todos os níveis, desde iniciantes até corredores avançados. O plano de 3 km, por exemplo, é ideal para quem está começando, com treinos que ajudam a construir resistência gradualmente.
+Como sei qual plano escolher?;"Escolha o plano com base no seu objetivo e nível de condicionamento atual:
+
+- 3 km: Ideal para iniciantes ou quem deseja uma meta mais curta.
+- 5 km: Para quem já tem alguma experiência ou quer um desafio intermediário.
+- 10 km: Para corredores mais experientes ou quem busca um objetivo mais desafiador.
+
+Se precisar de ajuda, o aplicativo oferece uma breve descrição de cada plano para facilitar sua escolha."
+Posso ver meu progresso durante o plano?;Sim! O aplicativo e o relógio mostram seu progresso em tempo real, incluindo distância percorrida, batimentos cardíacos e tempo de treino. Ao finalizar cada sessão, você receberá um resumo detalhado no aplicativo.
+Preciso de algum equipamento adicional para usar os planos de corrida?;Não. Tudo o que você precisa é do seu relógio e do aplicativo. No entanto, recomendamos o uso de tênis adequados para corrida e roupas confortáveis para garantir uma experiência melhor.
+Posso repetir um plano após concluí-lo?;Sim! Após finalizar um plano, você pode reiniciá-lo se desejar reforçar seu condicionamento ou melhorar seu desempenho. Basta acessar a seção de planos de corrida e configurar novamente o plano desejado.
+Os planos de corrida funcionam sem conexão com o aplicativo?;Sim, uma vez configurados, os planos podem ser executados diretamente pelo relógio, sem necessidade de conexão com o aplicativo durante o treino. No entanto, para sincronizar os dados e acompanhar seu progresso, é necessário conectar o relógio ao aplicativo posteriormente.
+Aplicativos suportados;"As notificações aplicativos que são suportados pelo relógio são: 
+
+Facebook, X, Instagram, Linkedin, Whatsapp, Call, SMS, Teams, Gmail, Outlook, Telegram, Facebook Messenger, Whatsapp Business, Google Calendar, Outros, Shein, Aliexpress, Shopee, Snapchat e Pinterest."
+Quais modalidades o meu relógio consegue monitorar?;"Você pode monitorar diretamente pelo seu relógio 110 exercícios. Os exercícios disponíveis são:
+
+1. Corrida
+2. Caminhada Esteira
+3. Corrida Esteira
+4. Bike
+5. Natação
+6. Montanhismo
+7. Elíptico
+8. Dança
+9. Treino Livre
+10. Trilha
+11. Corrida de revezamento
+12. Abdominal
+13. Pular Corda
+14. Treino Funcional
+15. Taekwndo
+16. Boxe
+17. Luta Livre
+18. Karatê
+19. Esgrima
+20. Core
+21. Krav maga
+22. Barras Paralelas
+23. Atletismo
+24. Pole Dance
+25. Ginástica
+26. Balé
+27. Hip-Hop
+28. Patinação de velocidade
+29. Artes marciais
+30. Trampolim
+31. Sandboard
+32. Basquete
+33. Frescobol
+34. Beach tênis
+35. Tênis
+36. Vôlei
+37. Handball
+38. Baseball
+39. Softball
+40. Futebol Americano
+41. Funcional na Praia
+42. Futebol
+43. Surfe
+44. Hóquei
+45. Esqui
+46. Snowboarding
+47. Skate
+48. Escalada
+49. Parkour
+50. Academia
+51. Step
+52. Pólo
+53. Spinning
+54. Yoga
+55. Jiu-Jitsu
+56. Altinha
+57. Jazz
+58. Caminhada
+59. Remo
+60. Rapel
+61. Skin Board
+62. Slackline
+63. Treino de força
+64. Pilates
+65. Levantamento de Peso
+66. Marcha atlética
+67. Arremesso de Peso
+68. Alongamento
+69. Zumba
+70. Futsal
+71. Simulador de escada
+72. Embaixadinha
+73. Squash
+74. Kickboxe
+75. Kung fu
+76. Muay Thai
+77. Futebol de Areia
+78. Rugbi
+79. Golfe
+80. Sapateado
+81. Down Hill
+82. Mountain bike
+83. Breakdance
+84. Patinação
+85. Exercício Aeróbico
+86. Capoeira
+87. Calistenia
+88. Bodyboard
+89. MMA
+90. Nado sincronizado
+91. Wakeboard
+92. Tênis de mesa
+93. Motocross
+94. HIIT
+95. Ginástica Artística
+96. Rafting
+97. Vela
+98. Judô
+99. Vôlei de Praia
+100. Foil
+101. Kayak
+102. Canoa Havaiana
+103. Kitesurf
+104. Barra
+105. Futevôlei
+106. Windsurf
+107. Jump
+108. Kitesurf
+109. SUP
+110. Corrida com obstáculos"
+Como realizo o monitoramento de um exercício?;"Para realizar o monitoramento de um exercício, com seu relógio conectado corretamente ao aplicativo, acesse a aba “Exercícios” do aplicativo e selecione a modalidade desejada. Em seguida defina uma meta ou toque no botão de “Iniciar sem definir meta”.
+Ao encerrar o exercício, você deve sincronizar os dados do relógio com o aplicativo. 
+
+Você também pode iniciar o exercício diretamente pelo seu relógio e faze-lo sem estar conectado com o celular durante o exercício. Ao finalizar o exercício pelo relógio, abra o aplicativo e faça a sincronização para ver todos os dados dele no histórico.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Como defino as metas para meus exercícios?;"Ao iniciar um monitoramento de exercício pelo aplicativo, é possível definir uma meta.
+As metas podem ser de distância (ex: correr 5km), de tempo (ex: correr por 30min) ou de caloria (ex: correr até queimar 500kcal). Só é possível escolher uma meta por exercício. Para exercícios que não possuem distância, você só poderá escolher entre a meta de calorias ou de tempo.
+Quando a meta for alcançada, você receberá uma notificação em seu celular ou no relógio lhe avisando.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+O que fazer para que o mapa seja registrado durante a realização de um exercício?;"Para que o mapa possa ser registrado é preciso iniciar o monitoramento do exercício pelo aplicativo. Certifique-se também de que seu relógio está conectado corretamente ao aplicativo, a Localização (GPS) de seu celular está ativada e a permissão de localização esteja configurada como “Permitir sempre”.
+O GPS do celular é usado para o desenho do mapa e para medir a distância percorrida durante o exercício em KM.
+ATENÇÃO: Para o funcionamento correto do exercício iniciado pelo aplicativo, é necessário manter o aplicativo aberto, mesmo que em segundo plano, e seu relógio deve permanecer conectado durante todo o exercício. Caso a conexão seja perdida ou o aplicativo fechado, alguns dados podem não ser registrados ou podem apresentar menor precisão."
+Posso fazer um exercício sem levar o celular comigo?;"Sim, você pode iniciar qualquer exercício diretamente pelo seu relógio sem a necessidade de estar conectado no momento ou levar o celular com você durante o exercício. Quando o exercício for finalizado, basta abrir o aplicativo e fazer a sincronização para que o exercício seja salvo no seu histórico.
+Exercícios que possuem mapa ou distância, esses dados só serão calculados e mostrados corretamente caso o exercício seja iniciado pelo aplicativo e o celular esteja com você durante todo o exercício."
+Meu relógio tem GPS integrado?;Não, o modelo Mormaii Life Ultra não possui GPS integrado. O aplicativo acessa seus dados de geolocalização para traçar o mapa e calcular a distância com precisão dos seus exercícios.
+O Mormaii Life Ultra possui monitoramento de sono?;Sim, o Mormaii Life Ultra possui a função de monitoramento de sono e para monitorar basta você conectar o relógio com o aplicativo e dormir com o relógio. Após finalizado o sono, basta sincronizar com o aplicativo para puxar os dados.
+Como faço para monitorar meu sono?;Para monitorar seu sono basta dormir com seu Mormaii Life Ultra bem ajustado ao pulso. O relógio irá detectar automaticamente seu ciclo de sono e classificar em sono leve, REM ou sono profundo. O relógio também registrará os momentos em que você acordou durante a noite. Para enviar as informações para o aplicativo basta realizar a sincronização arrastando a tela de cima para baixo na tela inicial do aplicativo. O relógio precisa estar bem ajustado ao pulso para fazer a marcação corretamente.
+Dormi com o relógio mas os dados de sono não foram registrados. O que devo fazer?;Você deve iniciar a sincronização arrastando a tela de cima para baixo na tela inicial do aplicativo e aguardar a finalização. Depois você pode consultar no atalho de ‘Sono’ da Tela Inicial. Caso ainda não mostre no aplicativo, verifique no relógio se os dados foram corretamente computados. Se também não possuir dados no relógio, verifique se dormiu com o relógio conectado corretamente no aplicativo e com o relógio bem ajustado ao pulso. Caso ainda encontre problemas nas noites seguintes, entre em contato conosco.
+Como eu altero minha meta de sono?;Para alterar a sua meta de sono, basta acessar a tela de perfil (Tocando na sua foto da tela inicial do aplicativo) depois toque na opção de “Definir objetivos” e altere para o tempo desejado.
+Meus passos do aplicativo não batem com o relógio, o que fazer?;"Para que os dados da tela inicial do aplicativo, do histórico e do relógio esteja sempre iguais, basta fazer sincronizações periódicas arrastando a tela inicial do aplicativo de cima para baixo. 
+
+Ao finalizar a sincronização, os dados de passos do dia ficarão salvos no aplicativo e serão sincronizados com o servidor no final do dia atual, ou seja, caso durante o dia você desinstalar o aplicativo, desconectar o relógio forçadamente ou fizer o logout, os dados do dia serão perdidos no relógio e também no aplicativo."
+Como salvo meus passos no aplicativo?;"Para salvar os dados de passos no aplicativo basta abrir o aplicativo e arrastar a tela de cima para baixo na tela inicial.
+
+Ao finalizar a sincronização, os dados de passos do dia ficarão salvos no aplicativo e serão sincronizados com o servidor no final do dia atual, ou seja, caso durante o dia você desinstalar o aplicativo, desconectar o relógio forçadamente ou fizer o logout, os dados do dia serão perdidos no relógio e também no aplicativo."
+Passos registrados mesmo sem andar, por guê?;"O sensor do relógio que conta os passos é ativado assim que você movimenta o braço e o relógio entende que você está se movimentando. 
+
+Isso pode acontecer também em transportes, caso o movimento se assemelhe ao movimento de uma caminhada ou corrida. 
+
+O monitoramento de passos é uma estimativa de movimento diário e os dados podem variar de acordo com o ambiente e o movimento gerado pelo pulso."
+Como inicio um monitoramento de batimentos?;"Seus batimentos podem ser capturados de duas formas, a primeira é manualmente no relógio. Você consegue navegar até a tela de batimentos no relógio e aguardar a medição (essa medição não é enviada pro histórico do aplicativo). 
+
+A segunda forma é utilizando o monitoramento automático, com essa função ativada, o seu relógio irá ler seus batimentos 24h por dia e com um intervalo de 5 minutos entre as medições. 
+
+A função de batimento automático poderá ser acessada pela tela de dispositivo com a função de nome ""Batimento automático” ou pela tela de histórico de batimentos tocando no botão de engrenagem localizado no topo da tela ao lado do ícone de central de ajuda.
+
+Mas atenção, com essa função automática ativada, a bateria do relógio será consumida mais rapidamente."
+Por quanto tempo meu batimento é monitorado?;Após o monitoramento automático ser ativado, seus batimentos serão monitorados 24h por dia com um intervalo de 5 minutos entre as medições.
+Como salvo meus batimentos no aplicativo?;"Para salvar os batimentos gerados automaticamente no aplicativo basta abrir o aplicativo e arrastar a tela de cima para baixo. Com isso, o aplicativo fará a sincronização e atualizará todos os dados na tela inicial e também no histórico.
+
+Atenção: Os dados de batimentos ficam salvos no aplicativo e são enviados para o servidor a cada 1h, ou seja, caso você desconecte o relógio forçadamente, desinstale o aplicativo, resete o relógio ou faça logout no aplicativo, seus dados de batimentos da hora corrente poderão ser perdidos, mas não se preocupe pois os dados das horas anteriores já sincronizadas com o aplicativo continuarão salvos na sua conta e não serão perdidos."
+Como eu ativo o monitoramento de estresse automático?;"Para ativar o monitoramento de estresse automático, siga os passos:
+
+1- Na tela inicial do aplicativo, localize o atalho de ""Estresse”
+
+2- Dentro da função, basta localizar a engrenagem localizada no canto superior direito da tela;
+
+3- Ative o monitoramento automático.
+
+A autonomia de bateria do seu relógio será afetada com esse monitoramento ativado."
+O que é o monitoramento de estresse?;"Com esse monitoramento ativo, o relógio irá medir o seu nível de estresse diário, que será dividido nas seguintes zonas:
+
+Alto: 80 a 99
+
+Médio: 60 a 79
+
+Baixo: 30 a 59
+
+Relaxado: 1 a 29"
+Como sincronizo o clima no relógio?;Assim que você conecta o relógio com o aplicativo, todas as informações de clima são automaticamente atualizadas no relógio.
+O clima do relógio está diferente do celular, por quê?;"Utilizamos o serviço de clima da accuweather, ou seja, todas as informações relacionadas a clima, são puxadas desse serviço.
+
+Caso o serviço que o aplicativo do seu celular utilize seja outro, possivelmente as informações serão ligeiramente diferentes.
+
+Lembre-se que para manter os dados de clima sempre atualizados, você precisa entrar no aplicativo durante o dia e aguardar a sincronização ser finalizada."
+O clima sincroniza automaticamente no relógio todos os dias?;A informação de clima é atualizada automaticamente assim que você entra no aplicativo. Caso você não entre no aplicativo, essa informação ficará desatualizada.
+Preciso de internet para sincronizar o clima?;Sim! Como utilizamos um serviço de clima para captar essas informações, você precisa que seu celular esteja conectado a internet para que as informações sejam enviadas para o relógio.
+Como ativo o controle de música?;"Para ativar o controle de música basta abrir o aplicativo e acessar a função de controle de música na tela de ""Dispositivo”. Com a função ativa, basta iniciar uma reprodução pelo seu aplicativo preferido no seu celular e em seguida controlar a musica e o volume do celular pelo relógio."
+Posso controlar as músicas durante um exercício?;Sim, a função de controle de música poderá ser encontrada na tela do exercício quando você arrasta da direita para a esquerda. A tela de controle de música só aparecerá caso você tenha habilitado na tela de dispositivo.
+O que é a função de controle de câmera?;É uma função que permite usar o relógio como um controle remoto para tirar fotos com a câmera do celular, sem precisar tocá-lo.
+Como ativar a função de controle de câmera?;"Primeiro, conecte o relógio ao aplicativo corretamente. Depois, abra o aplicativo no celular, vá até a tela do dispositivo e selecione a opção ""Controle de câmera""."
+Como tirar uma foto usando o relógio?;"Depois de abrir a função ""Controle de câmera"" no aplicativo, posicione o celular no ângulo desejado e toque no botão de disparo que aparece na tela do relógio para tirar a foto."
+O controle funciona com qualquer aplicativo de câmera?;Não. A função é compatível com o aplicativo de câmera que abre diretamente pelo app do relógio. Outros apps de câmera (como Instagram, WhatsApp, etc.) não são compatíveis.
+Posso usar com a tela do celular estiver desligada?;Não. O celular precisa estar com a tela ligada e com o aplicativo de controle de câmera aberto para que a função funcione corretamente.
+Posso gravar vídeos com a função de controle de câmera?;Não. A função é apenas para tirar fotos. Não é possível iniciar ou parar gravações de vídeo através do relógio.
+Qual a distância máxima entre o relógio e o celular para que o controle funcione?;Qual a distância máxima entre o relógio e o celular para que o controle funcione?
+Por que o botão de disparo não aparece no relógio?;"Verifique se o relógio está conectado corretamente ao aplicativo e se a função ""Controle de câmera"" está ativa na tela do dispositivo dentro do app. Também certifique-se de que o app tenha permissão para acessar a câmera do celular."
+O que é o alerta de sedentarismo?;É uma função que envia lembretes para você se movimentar quando estiver muito tempo parado, ajudando a manter uma rotina mais ativa e saudável.
+Como o alerta de sedentarismo funciona?;Você configura o intervalo desejado no aplicativo (30, 60, 90 ou 120 minutos) e, entre 8h da manhã e 22h da noite, o relógio te avisa sempre que estiver parado por esse período de tempo.
+Como ativar o alerta de sedentarismo?;Abra o Mormaii Smartwatches no celular, vá até a seção de configurações do dispositivo e ative o alerta de sedentarismo. Em seguida, escolha o intervalo entre os lembretes.
+É possível personalizar o horário dos alertas?;Não. Os alertas funcionam automaticamente entre 8h e 22h, período padrão definido pelo sistema.
+Posso escolher quais dias da semana o alerta funciona?;Não, o relógio vai te alertar todos os dias da semana
+O alerta vibra ou emite som?;O alerta normalmente acontece por vibração no pulso, para que você perceba mesmo em ambientes silenciosos. Sons não são emitidos.
+Posso desativar o alerta quando quiser?;Sim. Você pode ativar ou desativar a função a qualquer momento pelo aplicativo do relógio.
+Quantos mostradores posso enviar para o relógio?;É possível enviar um mostrador por vez. Ao enviar um novo, o anterior será automaticamente substituído no relógio.
+Posso excluir um mostrador fixo do relógio?;Não. O relógio possui três mostradores fixos que fazem parte do sistema e não podem ser removidos ou substituídos.
+Por que a sincronização de um mostrador demora?;"O processo envolve dois passos: primeiro, o mostrador é baixado do nosso servidor para o seu celular. Em seguida, ele é transferido via Bluetooth para o relógio.
+
+A velocidade dessa sincronização pode ser impactada por fatores como a qualidade da sua conexão com a internet, o tamanho do arquivo e possíveis interferências no sinal Bluetooth."
+Por que os mostradores demoram para carregar no aplicativo?;Toda vez que você acessa a galeria de mostradores no aplicativo, os dados são buscados diretamente do nosso servidor. Caso a sua conexão de internet esteja instável ou lenta, isso pode causar demora no carregamento dos mostradores.
+Todos os mostradores disponíveis no app são gratuitos?;Sim, os mostradores disponíveis na galeria padrão do aplicativo são gratuitos. Não há cobrança para baixar e usar.
+Posso agendar a troca de mostradores automaticamente?;Não. A troca de mostradores deve ser feita manualmente pelo aplicativo sempre que quiser alterar.
+Posso alterar o estilo do mostrador direto pelo relógio?;Sim. É possível alternar entre os mostradores fixos disponíveis diretamente pela tela do relógio. No entanto, para enviar um novo mostrador personalizado, é necessário usar o aplicativo.
+Quantos mostradores customizados posso ter no relógio;Você consegue ter 1 mostrador customizado no relógio por vez. Cada vez que você envia um novo mostrador pelo aplicativo, o mostrador anterior é substituído. Pelo aplicativo você consegue salvar até 3 fotos com configurações diferentes para enviar para o relógio sempre que quiser.
+Quais configurações posso fazer em um mostrador customizado?;Para o mostrador customizado, você consegue alterar a foto com uma foto da sua galeria ou tirar uma foto na hora, alterar a posição da hora para 3 posições diferentes e trocar a cor do relógio conforme desejar, existem diversas opções de cores disponíveis. Todas essas configurações são salvas quando você envia para o relógio e pode alterar ou excluir o mostrador sempre que quiser.
+Não consigo enviar um mostrador para o relógio, o que fazer?;"Para isso, você precisa identificar a mensagem de erro que mostra na tela do aplicativo, veja alguns erros e possíveis soluções:
+
+1- Bateria do relógio fraca - caso o relógio esteja com a bateria fraca, o envio do mostrador para o relógio pode falhar, então, carregue o relógio e tente novamente;
+
+2- Internet instável - Como salvamos suas fotos no servidor para que você consiga acessá-las depois, caso sua internet esteja instável pode falhar o processo de envio do relógio. O mesmo pode acontecer caso exista interferência de sinal do sinal bluetooth;
+
+3- Erro no servidor - Nosso servidor pode estar passando por manutenções ou instabilidades, nesse caso, aguarde um momento e tente novamente, caso o problema persista, entre em contato conosco."
+Não consigo tirar uma foto para colocar no mostrador, o que fazer?;Para garantir que tudo funcione bem, confira se você deu permissão para usar a câmera. É fácil! Vá até as configurações do seu celular, encontre o Mormaii smartwatches e toque em permissões. Verifique se a opção de câmera está ativada. Se não estiver, é só permitir. Depois disso, feche e abra o aplicativo e tente tirar uma foto novamente.
+Não consigo acessar meu álbum de fotos para selecionar uma foto para o mostrador, o que fazer?;Para garantir que tudo funcione bem, confira se você deu permissão para o aplicativo acessar seu álbum de fotos. É fácil! Vá até as configurações do seu celular, encontre o Mormaii smartwatches e toque em permissões. Verifique se a opção de álbum de fotos ou arquivos está ativada. Se não estiver, é só permitir. Depois disso, feche e abra o aplicativo e tente acessar o álbum para selecionar uma foto.
+Informações técnicas do relógio;"Medidas da caixa: Largura: 46mm Espessura: 11.60mm
+
+Tamanho da tela: 1.39”
+
+Resolução da tela: 360px x 360px
+
+Tecnologia do display: TFT-IPS
+
+Material da pulseira: Silicone
+
+Tamanho da bateria: 310mAh
+
+Duração da bateria: Até 10 dias dependendo do uso
+
+Tipo da bateria: Polímero de lítio
+
+Tempo de carregamento: até 2h30
+
+Processador: RTL8763EWE
+
+Sensor de batimentos: VC30F
+
+Material da caixa: Polímero 
+
+Geração do bluetooth: 5.2
+
+Resistência a água: 5ATM
+
+Número Anatel: 11208-24-16502"

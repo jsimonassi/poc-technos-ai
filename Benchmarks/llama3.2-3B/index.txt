@@ -1,0 +1,33 @@
+Cold Start: Aproximadamente 100 segundos.
+Commun start: 36 segundos.
+Cerca de 30 segundos para perguntas curtas.
+Cerca de 2m para perguntas com muitos tokens. (Mais de 500 tokens)
+
+Exemplos de respostas:
+
+
+Com Match Perfeito:
+
+Como realizo a conexão do meu relógio ao aplicativo?
+Para realizar a conexão do seu relógio Mormaii Smartwatches ao aplicativo, siga os passos abaixo:\n\n1. Inicie o aplicativo Mormaii Smartwatches e vá até a tela inicial.\n2. Toque no banner de conexão localizado abaixo da sua foto de perfil ou no ícone de relógio desconectado, acima do banner.\n3. Selecione o modelo de relógio compatível que deseja conectar.\n\nConexão via QR Code (para modelos compatíveis):\n\n- Se o seu relógio oferecer a opção de conexão por QR Code, o aplicativo abrirá automaticamente a câmera para realizar a leitura do código e conectar o dispositivo.\n\nConexão manual (caso seu relógio não tenha QR Code ou você prefira essa opção):\n\n- O aplicativo começará a procurar por relógios próximos compatíveis. Certifique-se de que seu relógio esteja ligado e próximo ao celular.\n- Verifique se o Bluetooth e a Localização (GPS) do seu celular estão ativados. Caso contrário, o aplicativo solicitará que você ative essas funções.\n\nPrimeira conexão:\n\n- Se for a primeira vez conectando o relógio, o aplicativo guiará você por uma série de configurações iniciais, como definição de objetivos e configuração de notificações.\n\nImportante: A conexão deve ser realizada exclusivamente através do passo a passo dentro do aplicativo Mormaii Smartwatches. Conectar-se via **configurações de Bluetooth** do celular ou outros meios pode causar mau funcionamento em várias funcionalidades do relógio.
+
+Posso tomar banho com meu relógio?
+Não é recomendado. A coluna d'água (distância entre o chuveiro e a caixa d'água) pode exercer uma pressão maior do que o limite de resistência do relógio.
+
+Como faço para monitorar meu sono?"
+Não tenho informações suficientes no momento para responder a essa pergunta.
+
+
+
+
+Sem Match Perfeito:
+
+Meu relógio nao recebe notificaçoes. O que fazer?
+Seu relógio não está recebendo notificações, você pode tentar resolver o problema seguindo os seguintes passos:\n\n1. Verifique se o seu relógio está ligado e conectado com o aplicativo.\n2. Verifique se o aplicativo tem todas as permissões necessárias para que o relógio consiga receber notificações.\n3. Verifique se o modo \"Não perturbe\" do aplicativo está ligado.\n4. Verifique se a notificação de “Chamada” está ativa, caso já esteja, você pode desligar e ligar a função para atualizar a configuração no relógio.\n\nSe nenhum desses passos resolver o problema, é recomendável consultar o manual do usuário ou entrar em contato com nosso suporte técnico.
+
+
+Meus dados de batimentos nao estao sendo exibidos
+Não tenho informações suficientes no momento para responder a essa pergunta.
+
+Quais exercícios eu posso fazer no meu relógio?
+Você pode monitorar 22 modalidades de exercícios no seu Mormaii Smartwatch, incluindo:\n\nNatação na piscina e Natação no mar\nYoga\nPilates\nDança\nRemo\nElíptico\nCross Training\nSUP\nHIIT\nCore\nAlongamento\nAcademia\nAeróbico\nSlackline\nAbdominal\nCapoeira\nJazz\nBarra\nKrav Magá\nAgachamentos\nLuta livre\nTreino funcional\nZumba\nBoxe\nArtes marciais\nTai Chi\nTaekwondo\nKaratê\nJudô\nEsgrima\nArco e flecha\nGinástica\nLevantamento de peso\nBarras paralelas\nVôlei\nArremesso de peso\nBoliche\nTênis\nTênis de mesa\nGolfe\nFutebol\nBasquete\nBeach tênis\nFrescobol\nHóquei\nFutebol americano\nSquash\nSoftball\nHandball\nAltinha\nBeisebol\nFutsal\nNado sincronizado\nMuai Thay\nSapateado\nBreak dance\nBalé\nAtletismo\nEscalada\nPular corda\nPeteca\nDardos\nHipismo\nSimulador de escada\nBocha\nPesca\nFoil Surfing\nJiu Jitsu\nPatinação\nSnowboard\nEsqui\nMarcha atlética\nFuncional na praia\nCorrida com obstáculos\nPole dance\nSurfe\nVela\nWindsurf\nCaiaque\nWakeboard\nVôlei de praia\nMotocross\nKickboxe\nKung Fu\nMontanhismo\nSkate\nRapel\nFutvôlei\nParkour

@@ -1,0 +1,67 @@
+Tempo médio de resposta: 2 segundos
+                         5 segundos           
+
+Exemplos de respostas:
+
+
+Com Match Perfeito:
+
+Como realizo a conexão do meu relógio ao aplicativo?
+1. Inicie o aplicativo Mormaii Smartwatches e vá até a tela inicial.\n2. Toque no banner de conexão localizado abaixo da sua foto de perfil ou no ícone de relógio desconectado, acima do banner.\n3. Selecione o modelo de relógio compatível que deseja conectar.\n\nConexão via QR Code (para modelos compatíveis):\n\n- Se o seu relógio oferecer a opção de conexão por QR Code, o aplicativo abrirá automaticamente a câmera para realizar a leitura do código e conectar o dispositivo.\n\nConexão manual (caso seu relógio não tenha QR Code ou você prefira essa opção):\n\n- O aplicativo começará a procurar por relógios próximos compatíveis. Certifique-se de que seu relógio esteja ligado e próximo ao celular.\n- Verifique se o Bluetooth e a Localização (GPS) do seu celular estão ativados. Caso contrário, o aplicativo solicitará que você ative essas funções.\n\nPrimeira conexão:\n\n- Se for a primeira vez conectando o relógio, o aplicativo guiará você por uma série de configurações iniciais, como definição de objetivos e configuração de notificações.\n\nImportante:\n\n- A conexão deve ser realizada exclusivamente através do passo a passo dentro do aplicativo Mormaii Smartwatches. Conectar-se via **configurações de Bluetooth** do celular ou outros meios pode causar mau funcionamento em várias funcionalidades do relógio."
+
+Posso tomar banho com meu relógio?
+Não é recomendado que se tome banho com sua Mormaii fitGPS, uma vez que as partículas de vapor podem atravessar as vedações do relógio e a coluna d’água (distância entre o chuveiro e a caixa d’água) pode exercer uma pressão maior do que o limite de resistência do relógio.
+
+Como faço para monitorar meu sono?
+Para monitorar seu sono basta dormir com sua Mormaii fitSport no pulso. O relógio irá detectar automaticamente seu ciclo de sono e classificar em sono leve ou profundo. O relógio também registrará os momentos em que você acordou durante a noite. Para enviar as informações para o aplicativo basta realizar a sincronização apertando o botão de sincronizar localizado no canto superior direito da home ao lado do ícone de bluetooth. O relógio precisa estar bem ajustado ao pulso para fazer a marcação corretamente.
+
+
+Sem Match Perfeito:
+
+Meu relógio nao recebe notificaçoes. O que fazer?
+Não tenho informações suficientes no momento para responder a essa pergunta
+
+Meus dados de batimentos nao estao sendo exibidos
+Não tenho informações suficientes no momento para responder a essa pergunta.
+
+Quais exercícios eu posso fazer no meu relógio?
+Você pode monitorar diretamente pelo seu relógio 100 exercícios, podendo escolher até 12 para estar no relógio como acesso rápido. Os exercícios disponíveis são:\n\n- Corrida (GPS)\n- Corrida esteira\n- Caminhada (GPS)\n- Caminhada esteira\n- Trilha (GPS)\n- Bike (GPS)\n- Spinning\n- Tecido acrobático\n- Natação na piscina\n- Natação no mar\n- Yoga\n- Pilates\n- Dança\n- Remo\n- Elíptico\n- Cross Training\n- SUP\n- HIIT\n- Core\n- Alongamento\n- Academia\n- Aeróbico\n- Slackline\n- Abdominal\n- Capoeira\n- Jazz\n- Barra\n- Krav Magá\n- Agachamentos\n- Luta livre\n- Treino funcional\n- Zumba\n- Boxe\n- Artes marciais\n- Tai Chi\n- Taekwondo\n- Karatê\n- Judô\n- Esgrima\n- Arco e flecha\n- Ginástica\n- Levantamento de peso\n- Barras paralelas\n- Vôlei\n- Arremesso de peso\n- Boliche\n- Tênis\n- Tênis de mesa\n- Golfe\n- Futebol\n- Basquete\n- Beach tênis\n- Frescobol\n- Hóquei\n- Futebol americano\n- Squash\n- Softball\n- Handball\n- Altinha\n- Beisebol\n- Futsal\n- Nado sincronizado\n- Muai Thay\n- Sapateado\n- Break dance\n- Balé\n- Atletismo\n- Escalada\n- Pular corda\n- Peteca\n- Dardos\n- Hipismo\n- Simulador de escada\n- Bocha\n- Pesca\n- Foil Surfing\n- Jiu Jitsu\n- Patinação\n- Snowboard\n- Esqui\n- Marcha atlética\n- Funcional na praia\n- Corrida com obstáculos\n- Outros (GPS)\n- Pole dance\n- Surfe\n- Vela\n- Windsurf\n- Caiaque\n- Wakeboard\n- Vôlei de praia\n- Motocross\n- Kickboxe\n- Kung Fu\n- Montanhismo\n- Skate\n- Rapel\n- Futvôlei\n- Parkour\n- Mountain bike
+
+Como receber notificacoes no meu xiaomi?
+Está com problemas de receber notificações no seu Xiaomi? então siga\n\no passo a passo:\n\n1. Desinstalar o aplicativo Mormaii Smartwatches (lembre-se de sincronizar as informações com o aplicativo para não perder nenhum dado do relógio, para isso, arraste de cima para baixo a tela inicial do aplicativo);\n\n2. Reinicie o seu celular;\n\n3. Instale o aplicativo novamente, faça o processo de primeira conexão, dê as permissões de notificações necessárias;\n\n4. No aplicativo vá até a aba “Dispositivo” no menu inferior e depois em “Notificações” ou procure o atalho na tela inicial do aplicativo;\n\n5. Habilite todas as notificações desejadas;\n\nDepois disso, verifique se está recebendo as notificações dos aplicativos que selecionou. Lembre-se que você só receberá no relógio as notificações que também receber no seu celular, tá bom?\n\nPara garantir que as notificações não volte a desaparecer, faça as seguintes configurações:\n\n1. No seu celular, vá até as Configurações > Apps > Gerenciar apps > Selecione o Mormaii Smartwatches > e na parte de \"Permissões\", habilite a opção \"Início automático\";\n\n2. Vá até as Configurações > Apps > Gerenciar apps > Selecione o Technos Connect > Economia de bateria > Selecione a opção “Nenhuma restrição”;
+
+
+
+
+
+ Prompt enviado ao LLM:
+api-python  | 
+api-python  | Você é um assistente especialista em smartwatches da marca Mormaii Smartwatches.
+api-python  | Responda usando **apenas** as informações presentes entre as tags <contexto> e </contexto>.
+api-python  | Se não encontrar a resposta no contexto, responda exatamente:
+api-python  | "Não tenho informações suficientes no momento para responder a essa pergunta."
+api-python  | 
+api-python  | <contexto>
+api-python  | Pergunta: Como ser notificado de uma ligação pelo relógio?
+api-python  | Resposta: Após feita a conexão do seu relógio com o aplicativo, e dado todas as permissões necessárias. Você pode acessar o atalho de “Notificações” na tela inicial do aplicativo ou no menu "Dispositivo” e ligar a função “Chamadas”. Após esse processo, seu relógio te notificará sempre que alguém estiver te ligando. 
+api-python  | 
+api-python  | Pergunta: Recebo notificação mesmo de grupos silenciados, o que fazer?
+api-python  | Resposta: Mesmo que um grupo do seu Whatsapp esteja silenciado, pode ser que você ainda esteja recebendo essa notificação na central de notificações do seu celular. Caso isso esteja acontecendo, você precisa modificar as configurações de grupos silenciados no aplicativo do whatsapp.
+api-python  | 
+api-python  | Pergunta: O relógio parou de notificar ligação, o que fazer?
+api-python  | Resposta: Para voltar a receber notificações de ligação, siga os passos abaixo:
+api-python  | 
+api-python  | 1- Verifique se o relógio está ligado;
+api-python  | 
+api-python  | 2- Verifique se o relógio está conectado com o aplicativo;
+api-python  | 
+api-python  | 3- Verifique se o aplicativo está com todas as permissões necessárias para que o relógio consiga receber as notificações;
+api-python  | 
+api-python  | 4- Verifique se o modo "Não perturbe” do aplicativo está ligado.
+api-python  | 
+api-python  | 5- Verifique se a notificação de “Chamada” está ativa, caso já esteja, você pode desligar e ligar a função para atualizar a configuração no relógio.
+api-python  | </contexto>
+api-python  | 
+api-python  | Pergunta: Meu relógio nao recebe notificaçoes. O que fazer?
+api-python  | 
+api-python  | Resposta:

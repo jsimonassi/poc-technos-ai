@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+python-dotenv
+openai
+mysql-connector-python
+pymongo
