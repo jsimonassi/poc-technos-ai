@@ -1,5 +1,4 @@
-Cold Start: Aproximadamente 100 segundos.
-Commun start: 36 segundos.
+Tempo de resposta (Macbook M1 Pro, 16GB RAM, 8 cores + Docker -> Container Llama):
 Cerca de 30 segundos para perguntas curtas.
 Cerca de 2m para perguntas com muitos tokens. (Mais de 500 tokens)
 

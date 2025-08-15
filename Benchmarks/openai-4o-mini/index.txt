@@ -1,5 +1,5 @@
-Tempo médio de resposta: 2 segundos
-                         5 segundos           
+Tempo de resposta (Acesso via API):
+Entre 2 a 5 segundos.
 
 Exemplos de respostas:
 
@@ -29,39 +29,3 @@ Você pode monitorar diretamente pelo seu relógio 100 exercícios, podendo esco
 
 Como receber notificacoes no meu xiaomi?
 Está com problemas de receber notificações no seu Xiaomi? então siga\n\no passo a passo:\n\n1. Desinstalar o aplicativo Mormaii Smartwatches (lembre-se de sincronizar as informações com o aplicativo para não perder nenhum dado do relógio, para isso, arraste de cima para baixo a tela inicial do aplicativo);\n\n2. Reinicie o seu celular;\n\n3. Instale o aplicativo novamente, faça o processo de primeira conexão, dê as permissões de notificações necessárias;\n\n4. No aplicativo vá até a aba “Dispositivo” no menu inferior e depois em “Notificações” ou procure o atalho na tela inicial do aplicativo;\n\n5. Habilite todas as notificações desejadas;\n\nDepois disso, verifique se está recebendo as notificações dos aplicativos que selecionou. Lembre-se que você só receberá no relógio as notificações que também receber no seu celular, tá bom?\n\nPara garantir que as notificações não volte a desaparecer, faça as seguintes configurações:\n\n1. No seu celular, vá até as Configurações > Apps > Gerenciar apps > Selecione o Mormaii Smartwatches > e na parte de \"Permissões\", habilite a opção \"Início automático\";\n\n2. Vá até as Configurações > Apps > Gerenciar apps > Selecione o Technos Connect > Economia de bateria > Selecione a opção “Nenhuma restrição”;
-
-
-
-
-
- Prompt enviado ao LLM:
-api-python  | 
-api-python  | Você é um assistente especialista em smartwatches da marca Mormaii Smartwatches.
-api-python  | Responda usando **apenas** as informações presentes entre as tags <contexto> e </contexto>.
-api-python  | Se não encontrar a resposta no contexto, responda exatamente:
-api-python  | "Não tenho informações suficientes no momento para responder a essa pergunta."
-api-python  | 
-api-python  | <contexto>
-api-python  | Pergunta: Como ser notificado de uma ligação pelo relógio?
-api-python  | Resposta: Após feita a conexão do seu relógio com o aplicativo, e dado todas as permissões necessárias. Você pode acessar o atalho de “Notificações” na tela inicial do aplicativo ou no menu "Dispositivo” e ligar a função “Chamadas”. Após esse processo, seu relógio te notificará sempre que alguém estiver te ligando. 
-api-python  | 
-api-python  | Pergunta: Recebo notificação mesmo de grupos silenciados, o que fazer?
-api-python  | Resposta: Mesmo que um grupo do seu Whatsapp esteja silenciado, pode ser que você ainda esteja recebendo essa notificação na central de notificações do seu celular. Caso isso esteja acontecendo, você precisa modificar as configurações de grupos silenciados no aplicativo do whatsapp.
-api-python  | 
-api-python  | Pergunta: O relógio parou de notificar ligação, o que fazer?
-api-python  | Resposta: Para voltar a receber notificações de ligação, siga os passos abaixo:
-api-python  | 
-api-python  | 1- Verifique se o relógio está ligado;
-api-python  | 
-api-python  | 2- Verifique se o relógio está conectado com o aplicativo;
-api-python  | 
-api-python  | 3- Verifique se o aplicativo está com todas as permissões necessárias para que o relógio consiga receber as notificações;
-api-python  | 
-api-python  | 4- Verifique se o modo "Não perturbe” do aplicativo está ligado.
-api-python  | 
-api-python  | 5- Verifique se a notificação de “Chamada” está ativa, caso já esteja, você pode desligar e ligar a função para atualizar a configuração no relógio.
-api-python  | </contexto>
-api-python  | 
-api-python  | Pergunta: Meu relógio nao recebe notificaçoes. O que fazer?
-api-python  | 
-api-python  | Resposta:

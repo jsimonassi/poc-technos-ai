@@ -1,5 +1,4 @@
 import os
-import pickle
 import time
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
@@ -35,7 +34,6 @@ def load_faq_mysql():
         "user": os.getenv("MYSQL_USER", "root"),
         "password": os.getenv("MYSQL_PASSWORD", ""),
         "database": os.getenv("MYSQL_DATABASE", "mormaiismartwatches"),
-        "ssl_disabled": True,
     }
 
     conn = mysql.connector.connect(**db_config)
@@ -63,15 +61,20 @@ async def update_embeddings():
     documents = load_faq_mysql()
     if not documents:
         return JSONResponse({"error": "Não há FAQs no MySQL para gerar embeddings."}, status_code=404)
-    print(f"Carregando {len(documents)} FAQs do MySQL para embeddings...")
+
     for doc in documents:
-        vector = embeddings_model.embed_query(doc.page_content)
+        vector = embeddings_model.embed_query(doc.page_content)  # lista de floats
         mongo_collection.update_one(
             {"pergunta": doc.metadata["pergunta"]},
-            {"$set": {"content": doc.page_content, "embedding": pickle.dumps(vector)}},
+            {
+                "$set": {
+                    "content": doc.page_content,
+                    "embedding": vector  # salva como lista de floats
+                }
+            },
             upsert=True
         )
-    print(f"Embeddings atualizados no mongo para {len(documents)} FAQs.")
+
     return {"message": f"Embeddings atualizados para {len(documents)} FAQs."}
 
 # ==========================================
@@ -80,15 +83,25 @@ async def update_embeddings():
 def load_embeddings_from_mongo():
     documents = []
     embeddings_list = []
+
     cursor = mongo_collection.find()
     for doc in cursor:
         documents.append(Document(page_content=doc["content"], metadata={"pergunta": doc["pergunta"]}))
-        embeddings_list.append(pickle.loads(doc["embedding"]))
+        embeddings_list.append(doc["embedding"])  # já é lista de floats
 
     if not documents:
         return None, None
 
-    vectorstore = FAISS.from_embeddings(embeddings_list, documents)
+    # Monta lista de tuplas (texto, vetor)
+    text_embeddings = [(doc.page_content, emb) for doc, emb in zip(documents, embeddings_list)]
+
+    # Cria FAISS com metadados
+    vectorstore = FAISS.from_embeddings(
+        text_embeddings,
+        embedding=embeddings_model,
+        metadatas=[doc.metadata for doc in documents]
+    )
+
     return documents, vectorstore
 
 # Inicializa variáveis globais

@@ -1,3 +1,4 @@
+Tempo de resposta (Macbook M1 Pro, 16GB RAM, 8 cores + Docker -> Container Llama):
 Tempo médio de 50 segundos.
 
 Exemplos de respostas:
